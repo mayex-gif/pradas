@@ -4,14 +4,12 @@
       <v-card class="text-center">
         <h1>Marco jurídico</h1>
 
-          <v-card class="text-center">
-
             <div justify="center" align="center">
               <v-btn  color="primary" nuxt to="/1">
                 Leyes
               </v-btn>
               <v-btn  color="primary" nuxt to="/2">
-                Tadeo
+                Derechos
               </v-btn>
               <v-btn  color="primary" nuxt to="/3">
                 Alejo
@@ -26,13 +24,7 @@
                 Luisito
               </v-btn>
             </div>
-
-
-
-          </v-card>
-
-
-
+            
       </v-card>
     </v-col>
   </v-row>
