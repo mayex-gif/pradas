@@ -1,19 +1,17 @@
 <template>
-  <v-row>
+<div>
 
-    <v-card class="text-center">
-      <v-card class="text-center">
-        <v-col justify="center" align="center" class="text-center">
-            <v-btn color="primary" nuxt to="/marcojuridico">
-              Volver
-            </v-btn>
-        </v-col>
-      </v-card>
-
-      <v-col justify="center" align="center" class="text-center">
-        <h1>Leyes</h1>
+  <v-card class="text-center">
+    <v-row>
+      <v-col class="text-left">
+        <v-btn color="primary" nuxt to="/marcojuridico">Volver</v-btn>
       </v-col>
-    </v-card>
+    </v-row>
+    <v-col justify="center" align="center" >
+      <h1 class="text-center">Leyes</h1>
+    </v-col>
+  </v-card>
 
-  </v-row>
+
+</div>
 </template>
