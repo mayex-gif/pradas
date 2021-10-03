@@ -71,7 +71,7 @@ export default {
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Tadeo',
+          title: 'Derechos',
           to: '/2'
         },
         {
