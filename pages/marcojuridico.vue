@@ -4,7 +4,10 @@
       <v-card class="text-center">
         <h1>Marco jurídico</h1>
 
-            <div justify="center" align="center">
+            <div class="d-flex justify-space-between pa-4"
+            :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'"
+            flat
+            tile>
               <v-btn  color="primary" nuxt to="/1">
                 Leyes
               </v-btn>
@@ -24,7 +27,7 @@
                 Luisito
               </v-btn>
             </div>
-            
+
       </v-card>
     </v-col>
   </v-row>
