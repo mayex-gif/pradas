@@ -43,7 +43,10 @@
       :absolute="!fixed"
       app
     >
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{new Date().getFullYear()}}</span>
+
+      <v-text>Alcalde - Rodríguez - Viero</v-text>
+
     </v-footer>
   </v-app>
 </template>
