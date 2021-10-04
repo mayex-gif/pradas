@@ -6,7 +6,6 @@
 
 
             <div class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
-
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
                 <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                   <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/1">
@@ -49,7 +48,6 @@
                   </v-btn>
                 </v-card>
               </v-hover>
-
             </div>
 
 
