@@ -61,7 +61,7 @@ export default {
       menu: [
         {
           icon: 'mdi-bank',
-          color: 'black',
+          color: '',
           title: 'Marco Jurídico',
           to: '/marcojuridico'
         },
