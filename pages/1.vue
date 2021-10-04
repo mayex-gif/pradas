@@ -6,7 +6,7 @@
       <path fill="currentColor" d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg></v-btn>
     </div>
 
-    <v-card class="mx-auto mt-3" elevation="7" max-width="" tile>
+    <v-card class="mx-auto mt-3" elevation="7" max-width="%90" tile>
       <v-list-item>
         <v-list-item-content>
           <h1 class="text-center">LEYES</h1>
@@ -22,13 +22,15 @@
 
       <v-list-item three-line>
         <v-list-item-content>
-          <v-list-item-title>Three-line item</v-list-item-title>
-          <v-list-item-subtitle>
-            Secondary line text Lorem ipsum dolor sit amet,
-          </v-list-item-subtitle>
-          <v-list-item-subtitle>
-            consectetur adipiscing elit.
-          </v-list-item-subtitle>
+          <h3 class="mb-1">Consideraciones</h3>
+          <p>Las leyes son delimitadoras del libre albedrío de las personas dentro de la sociedad. Se puede decir que la ley es el control externo que existe para la conducta humana, las normas que rigen nuestra conducta social. Constituye una de las principales fuentes del derecho.</p>
+        </v-list-item-content>
+
+      </v-list-item>
+      <v-list-item three-line>
+        <v-list-item-content>
+          <h3 class="mb-1">Enlaces externos</h3>
+          <a href="https://es.wikipedia.org/wiki/Ley"> https://es.wikipedia.org/wiki/Ley </a>
         </v-list-item-content>
       </v-list-item>
     </v-card>
