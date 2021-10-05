@@ -4,7 +4,7 @@
 
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="100%" tile>
-          <h1 class="text-center">MARCO JURÍDIO</h1>
+          <h1 class="text-center">MARCO JURÍDICO</h1>
           <v-list-item one-line>
             <v-list-item-content>
               <h3>¿Qué es el marco jurídico o marco legal?</h3>
