@@ -4,8 +4,7 @@
     <div class="d-flex justify-space-between" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
-          <v-btn color="$vuetify.theme.dark" nuxt to="/marcojuridico"><svg style="width:24px;height:24px" viewBox="0 0 24 24">
-          <path fill="currentColor" d="M20,11V13H8L13.5,18.5L12.08,19.92L4.16,12L12.08,4.08L13.5,5.5L8,11H20Z" /></svg></v-btn>
+          <v-btn color="$vuetify.theme.dark" nuxt to="/marcojuridico"><v-icon>mdi-chevron-left</v-icon></v-btn>
         </v-card>
       </v-hover>
     </div>
