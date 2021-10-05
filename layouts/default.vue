@@ -1,37 +1,47 @@
 <template>
   <v-app>
     <v-navigation-drawer v-model="drawer" :mini-variant="miniVariant" clipped fixed app>
+      <v-list-item-title class="text-h6 text-center my-3">
+        Temas
+      </v-list-item-title>
+      <v-divider></v-divider>
       <v-list>
         <v-list-item v-for="(item, i) in menu" :key="i" :to="item.to" router exact>
           <v-list-item-action>
             <v-icon :color="item.color">{{ item.icon }}</v-icon>
           </v-list-item-action>
           <v-list-item-content>
-            <v-list-item-title v-text="item.title" />
+          <v-list-item-title v-text="item.title" />
           </v-list-item-content>
         </v-list-item>
+        <v-divider></v-divider>
       </v-list>
     </v-navigation-drawer>
-    <v-navigation-drawer v-model="drawer2" height="auto"  fixed app absolute temporary right>
-      <v-title-list-item class="flex text-center">Tema</v-title-list-item>
+    <v-navigation-drawer v-model="drawer2" right clipped fixed app>
+      <v-list-item-title class="text-h6 text-center my-3">
+            Tema
+      </v-list-item-title>
       <v-divider></v-divider>
-      <v-list>
+      <v-list class="flex">
         <v-list-item v-for="(item, i) in theme" :key="i">
           <v-list-item-icon>
-            <v-icon>{{ item.icon }}</v-icon>
+            <v-icon class="mt-1">{{ item.icon }}</v-icon>
           </v-list-item-icon>
-          <v-switch v-model="$vuetify.theme.dark"/>
+          <v-switch v-model="$vuetify.theme.dark" inset/>
         </v-list-item>
+        <v-divider></v-divider>
       </v-list>
     </v-navigation-drawer>
+
     <div class="d-flex">
       <v-hover v-slot="{ hover }" open-delay="15" close-delay="15">
-        <v-app-bar :elevation="hover ? 20 : 5" :class="{ 'on-hover':hover }" clipped-left tile fixed app>
+        <v-app-bar :elevation="hover ? 20 : 5" :class="{ 'on-hover':hover }" clipped-left clipped-right app>
           <v-app-bar-nav-icon @click.stop="drawer = !drawer" />
           <v-toolbar-title v-text="title" />
           <v-spacer></v-spacer>
           <v-app-bar-nav-icon @click.stop="drawer2 = !drawer2"><v-icon>mdi-cog</v-icon></v-app-bar-nav-icon>
         </v-app-bar>
+
       </v-hover>
     </div>
     <v-main>
@@ -54,7 +64,7 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
-      drawer2: null,
+      drawer2: false,
       menu: [
         {
           icon: 'mdi-bank',
