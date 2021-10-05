@@ -49,7 +49,7 @@
         <Nuxt />
       </v-container>
     </v-main>
-    <v-footer padless>
+    <v-footer padless fixed>
       <v-text class="flex text-center">
         &copy; {{ new Date().getFullYear() }} — <strong>Alcalde - Rodríguez - Viero</strong> — Vuetify
       </v-text>
@@ -107,6 +107,12 @@ export default {
           color: 'light-blue',
           title: 'Luisito',
           to: '/6'
+        },
+        {
+          icon: 'mdi-bank',
+          color: '',
+          title: 'Prueba',
+          to: '/prueba'
         }
 
       ],
@@ -120,7 +126,6 @@ export default {
       right: true,
       rightDrawer: false,
       title: 'MARCO JURÍDICO',
-      mini: false
     }
   }
 }

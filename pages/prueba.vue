@@ -8,7 +8,6 @@
     <v-col>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="100%" tile>
-
           <v-list-item one-line>
             <v-list-item-content>
               <h3>¿Qué es el marco jurídico o marco legal?</h3>
@@ -87,5 +86,12 @@
     </v-col>
   </v-app>
 </div>
-
 </template>
+
+<style scoped>
+.hero {
+  background: url('/static/top-icon.png');
+  background-size: cover;
+  height: 100vh;
+}
+</style>
