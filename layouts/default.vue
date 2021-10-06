@@ -41,15 +41,15 @@
           <v-spacer></v-spacer>
           <v-app-bar-nav-icon @click.stop="drawer2 = !drawer2"><v-icon>mdi-cog</v-icon></v-app-bar-nav-icon>
         </v-app-bar>
-
       </v-hover>
     </div>
+
     <v-main>
       <v-container>
         <Nuxt />
       </v-container>
     </v-main>
-    <v-footer padless fixed>
+    <v-footer padless>
       <v-text class="flex text-center">
         &copy; {{ new Date().getFullYear() }} — <strong>Alcalde - Rodríguez - Viero</strong> — Vuetify
       </v-text>

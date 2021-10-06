@@ -1,14 +1,13 @@
 <template>
 <div>
   <v-app>
-    <h2 class="text-center" style="letter-spacing:20px ;font-size:40px  ;padding-top:20%; padding-bottom:2%; ">MARCO JURÍDICO</h2>
+    <h2 class="text-center" style="letter-spacing:20px ;font-size:40px  ;padding-top:18%; padding-bottom:2%; ">MARCO JURÍDICO</h2>
     <v-divider class="mx-16"></v-divider>
     <v-divider class="mx-16"></v-divider>
     <p class="text-center mt-2 text-decoration-line-through" style="padding-top:1% ;letter-spacing:5px ;padding-bottom:22% ;">Instituto Superior Manuel de Falla</p>
-    <v-col>
+    <v-col style="padding-bottom:15%;">
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="100%" tile>
-
           <v-list-item one-line>
             <v-list-item-content>
               <h3>¿Qué es el marco jurídico o marco legal?</h3>
