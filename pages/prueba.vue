@@ -20,6 +20,16 @@
             </v-list-item-content>
           </v-list-item>
           <v-list-item two-line>
+            <v-list-item-content style="padding-left:40% ;padding-right:40% ;">
+              <v-card class="py-1 text-center" style="padding-left:5% ;padding-right:5% ;">
+                <v-card >
+                  <img src="https://images.vexels.com/media/users/3/129907/isolated/preview/bd20f1a060927e5aa1d155ee1cbf4cef-icono-de-sentencia-de-escala-judicial.png" alt="Balance" height="200px" >
+                </v-card>
+              </v-card>
+              <v-list-tile-sub-title class="text-center">Icono sentencia de escala judicial</v-list-tile-sub-title>
+            </v-list-item-content>
+          </v-list-item>
+          <v-list-item three-line>
             <v-list-item-content>
               <h3 class="text-center"> ELIJA UN TEMA</h3>
               <v-divider class="mb-1"></v-divider>
