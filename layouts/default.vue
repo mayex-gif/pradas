@@ -70,7 +70,7 @@ export default {
           icon: 'mdi-bank',
           color: '',
           title: 'Marco Jurídico',
-          to: '/marcojuridico'
+          to: '/'
         },
           {
           icon: 'mdi-book-open-page-variant-outline',
