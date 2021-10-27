@@ -1,10 +1,11 @@
 <template>
 <div>
   <v-app>
-    <h2 class="text-center" style="letter-spacing:20px ;font-size:40px  ;padding-top:18%; padding-bottom:2%; ">MARCO JURÍDICO</h2>
+    <h2 class="text-center" style="letter-spacing:20px ;font-size:40px  ;padding-top:18%; padding-bottom:1%; ">MARCO JURÍDICO</h2>
+    <h3 class="text-center" style="letter-spacing:5px ;font-size:20px; padding-bottom: 1%;" >ACTIVIDADES INDUSTRIALES</h3>
     <v-divider class="mx-16"></v-divider>
     <v-divider class="mx-16"></v-divider>
-    <p class="text-center mt-2 text-decoration-line-through" style="padding-top:1% ;letter-spacing:5px ;padding-bottom:22% ;">Instituto Superior Manuel de Falla</p>
+    <p class="text-center mt-2" style="padding-top:1% ;letter-spacing:5px ;padding-bottom:22% ;">Instituto Superior Manuel de Falla - Técnico en Programación</p>
     <v-col style="padding-bottom:15%;">
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="100%" tile>

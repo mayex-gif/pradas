@@ -145,6 +145,8 @@ export default {
       ],
       icons: [
         'mdi-account-box',
+        'mdi-github',
+        'mdi-school',
       ],
 
       miniVariant: false,
