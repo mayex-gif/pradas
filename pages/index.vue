@@ -31,42 +31,49 @@
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/2">
-                  DERECHOS
+                  DERECHOS Y NORMAS
                 </v-btn>
               </v-card>
             </v-hover>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/3">
-                  ALEJO
+                  BIENES
                 </v-btn>
               </v-card>
             </v-hover>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/4">
-                  NAZARENO
+                  DERECHOS DE AUTOR
                 </v-btn>
               </v-card>
             </v-hover>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/5">
-                  PETITO
+                  DELITOS INFORMATICOS
                 </v-btn>
               </v-card>
             </v-hover>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/6">
-                  LUISITO
+                  CONTRATO DE SOFTWARE
                 </v-btn>
               </v-card>
             </v-hover>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/prueba">
-                  PRUEBA
+                <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
+                  SUJETO DEL DERECHO
+                </v-btn>
+              </v-card>
+            </v-hover>
+                        <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+              <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
+                <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
+                  ETICA Y DEONTOLOGIA PROFESIONAL
                 </v-btn>
               </v-card>
             </v-hover>
