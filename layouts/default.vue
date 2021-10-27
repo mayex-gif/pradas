@@ -51,13 +51,11 @@
     </v-main>
       <v-footer dark padless>
         <v-card flat tile class="light-blue lighten-1 white--text text-center" width="100%">
-          <v-card-text>
-              <v-btn v-for="icon in icons" :key="icon" class="mx-4 white--text" icon>
-                <v-icon size="24px">
-                  {{ icon }}
-                </v-icon>
-              </v-btn>
-            </v-card-text>
+          <v-item v-for="(item,i) in icons" :key="i" class="ma-auto mt-3 mb-1 light-blue " width="5%">
+            <v-btn :to="item.to" class="mx-4 white--text" target="_blank" icon>
+              <v-icon size="24px" >{{ item.icon }}</v-icon>
+            </v-btn>
+          </v-item>
             <v-card-text class="white--text pt-0">
                 Página informática relacionada al marco jurídico de las actividades industriales - TÉCNICO EN PROGRAMACIÓN
             </v-card-text>
@@ -105,13 +103,13 @@ export default {
           title: 'Bienes',
           to: '/3'
         },
-                {
+        {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Derechos de Autor',
           to: '/4'
         },
-                {
+        {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Delitos Informaticos',
@@ -129,24 +127,27 @@ export default {
           title: 'Sujeto del Derecho',
           to: '/7'
         },
-                {
+        {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Etica y Deontologia',
           to: '/8'
         }
-
       ],
       theme: [
         {
           icon: 'mdi-theme-light-dark',
         },
-        
       ],
       icons: [
-        'mdi-account-box',
-        'mdi-github',
-        'mdi-school',
+        {
+          icon: 'mdi-school',
+          to: 'https://institutomanueldefalla.edu.ar/',
+        },
+        {
+          icon: 'mdi-github',
+          to: 'https://github.com/mayex-gif/pradas',
+        }
       ],
 
       miniVariant: false,
