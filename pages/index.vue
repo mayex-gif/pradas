@@ -18,7 +18,7 @@
           </v-list-item>
           <v-list-item two-line>
             <v-list-item-content>
-              <h3 class="text-center">ELIJA UN TEMA</h3>
+              <h3 class="text-center">¿DESEA SEGUIR APRENDIENDO? ELIJA UN TEMA</h3>
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
           </v-list-item>
