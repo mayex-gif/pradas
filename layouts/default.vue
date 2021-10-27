@@ -81,38 +81,44 @@ export default {
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Derechos',
+          title: 'Derechos y Normas',
           to: '/2'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Alejo',
+          title: 'Bienes',
           to: '/3'
         },
                 {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Naza',
+          title: 'Derechos de Autor',
           to: '/4'
         },
                 {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Petito',
+          title: 'Delitos Informaticos',
           to: '/5'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Luisito',
+          title: 'Contrato de Software',
           to: '/6'
         },
         {
-          icon: 'mdi-bank',
-          color: '',
-          title: 'Prueba',
-          to: '/prueba'
+          icon: 'mdi-book-open-page-variant-outline',
+          color: 'light-blue',
+          title: 'Sujeto del Derecho',
+          to: '/7'
+        },
+                {
+          icon: 'mdi-book-open-page-variant-outline',
+          color: 'light-blue',
+          title: 'Etica y Deontologia',
+          to: '/8'
         }
 
       ],

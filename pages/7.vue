@@ -13,7 +13,7 @@
       <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="%90" tile>
         <v-list-item>
           <v-list-item-content>
-            <h1 class="text-center">DERECHOS DE AUTOR</h1>
+            <h1 class="text-center">SUJETO DEL DERECHO</h1>
           </v-list-item-content>
         </v-list-item>
         <v-list-item two-line>
@@ -49,5 +49,3 @@
   >.v-card__text
     color: #000
 </style>
-
-

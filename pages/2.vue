@@ -13,7 +13,7 @@
       <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="%90" tile>
         <v-list-item>
           <v-list-item-content>
-            <h1 class="text-center">DERECHOS</h1>
+            <h1 class="text-center">DERECHOS Y NORMAS</h1>
           </v-list-item-content>
         </v-list-item>
         <v-list-item two-line>
