@@ -19,7 +19,6 @@
         <v-list-item two-line>
           <v-list-item-content>
             <h3>¿Qué es la ley?</h3>
-              <v-divider class="mb-1"></v-divider>
             <v-divider class="mb-1"></v-divider>
             <p>La ley (en latín, lex, legis) es una norma jurídica dictada por el legislador, es decir, un precepto establecido por la autoridad competente, en que se manda o prohíbe algo en consonancia con la justicia, cuyo incumplimiento conlleva a una sanción.1​Según el jurista panameño César Quintero, la ley es una «norma dictada por una autoridad pública que a todos ordena, prohíbe o permite, y a la cual todos deben obediencia». Por otro lado, el jurista venezolano Andrés Bello definió la ley como «una declaración de la voluntad soberana que, manifestada en la forma prescrita por la Constitución, manda, prohíbe o permite». Para Bello, lo decisivo para calificar un acto de ley es la forma en que se gesta y no la naturaleza de la disposición en él contenida.2​En general, las leyes son normas que regulan la convivencia social de una nación.</p>
           </v-list-item-content>
