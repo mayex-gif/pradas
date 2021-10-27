@@ -4,7 +4,7 @@
     <div class="d-flex" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
-          <v-btn color="$vuetify.theme.dark" nuxt to="/marcojuridico"><v-icon>mdi-chevron-left</v-icon></v-btn>
+          <v-btn color="$vuetify.theme.dark" nuxt to="/"><v-icon>mdi-chevron-left</v-icon></v-btn>
         </v-card>
       </v-hover>
     </div>
