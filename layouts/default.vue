@@ -19,7 +19,7 @@
     </v-navigation-drawer>
     <v-navigation-drawer v-model="drawer2" right clipped fixed app>
       <v-list-item-title class="text-h6 text-center my-3">
-            Tema
+        Ajustes
       </v-list-item-title>
       <v-divider></v-divider>
       <v-list class="flex">
@@ -57,7 +57,7 @@
             </v-btn>
           </v-item>
             <v-card-text class="white--text pt-0">
-                Página informática relacionada al marco jurídico de las actividades industriales - TÉCNICO EN PROGRAMACIÓN
+                Página informática relacionada al marco jurídico de las actividades industriales - Técnico en Programación
             </v-card-text>
             <v-divider></v-divider>
             <v-card-text class="white--text">
