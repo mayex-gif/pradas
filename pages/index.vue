@@ -22,6 +22,7 @@
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
           </v-list-item>
+          <v-list-item>
           <div class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
@@ -79,6 +80,7 @@
               </v-card>
             </v-hover>
           </div>
+          </v-list-item>
 
           <v-list-item last-line>
             <v-list-item-content>
