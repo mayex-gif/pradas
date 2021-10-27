@@ -50,24 +50,22 @@
       </v-container>
     </v-main>
       <v-footer dark padless>
-        <v-card flat tile class="light-blue lighten-1 white--text text-center" width="100%">
-          <v-item v-for="(item,i) in icons" :key="i" class="ma-auto mt-3 mb-1 light-blue " width="5%">
-            <v-btn :to="item.to" class="mx-4 white--text" target="_blank" icon>
-              <v-icon size="24px" >{{ item.icon }}</v-icon>
-            </v-btn>
-          </v-item>
-            <v-card-text class="white--text pt-0">
-                Página informática relacionada al marco jurídico de las actividades industriales - Técnico en Programación
-            </v-card-text>
-            <v-divider></v-divider>
-            <v-card-text class="white--text">
-              <v-text class="flex text-center">
-                &copy; {{ new Date().getFullYear() }} — <strong> Alcalde - Rodríguez - Viero </strong> — Vuetify
-              </v-text>
-            </v-card-text>
-          </v-card>
-        </v-footer>
-  </v-app>      
+       <v-card flat tile class="pt-4 pb-1 light-blue lighten-1 white--text text-center" width="100%">
+         <v-item v-for="(item,i) in icons" :key="i" class=" ma-auto mt-3 mb-1 light-blue " width="5%">
+           <v-btn :to="item.to" class="mx-4 white--text" target="_blank" icon>
+             <v-icon size="24px" >{{ item.icon }}</v-icon>
+           </v-btn>
+         </v-item>
+         <v-card-text class="white--text pt-4">
+             Página informática relacionada al marco jurídico de las actividades industriales - Técnico en Programación
+         </v-card-text>
+         <v-divider class="mt-4 mx-16 pb-1"></v-divider>
+         <v-text class="flex text-center">
+           &copy; {{ new Date().getFullYear() }} — <strong> Alcalde - Rodríguez - Viero </strong> — Vuetify
+         </v-text>
+       </v-card>
+      </v-footer>
+  </v-app>   
 </template>
 
 <script>
