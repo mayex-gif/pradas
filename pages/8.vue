@@ -34,7 +34,7 @@
           <v-list-item-content>
             <h3>Definición de Deontologìa profesional</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>es un sistema de autorregulación del que se dota una corporación profesional que por encomienda de la sociedad tiene reconocidas atribuciones propias en un campo determinado, con el fin de garantizar que las ejerce con sentido de responsabilidad y enfocándolas hacia la defensa del interés general.</p>
+            <p>Es un sistema de autorregulación del que se dota una corporación profesional que por encomienda de la sociedad tiene reconocidas atribuciones propias en un campo determinado, con el fin de garantizar que las ejerce con sentido de responsabilidad y enfocándolas hacia la defensa del interés general.</p>
           </v-list-item-content>
         </v-list-item>
       </v-card>
