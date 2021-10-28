@@ -32,7 +32,6 @@
         <v-divider></v-divider>
       </v-list>
     </v-navigation-drawer>
-
     <div class="d-flex">
       <v-hover v-slot="{ hover }" open-delay="15" close-delay="15">
         <v-app-bar :elevation="hover ? 20 : 5" :class="{ 'on-hover':hover }" clipped-left clipped-right app>
@@ -43,7 +42,6 @@
         </v-app-bar>
       </v-hover>
     </div>
-
     <v-main>
       <v-container>
         <Nuxt />
