@@ -25,19 +25,30 @@
               <br><br>Estos instrumentos pueden ser de tipo nacional pero también de tipo internacional, que son aquellos que se establecen entre los diferentes países para regular y unificar la materia legal y que permite el conocimiento de regulaciones entre ambas entidades, por ejemplo las leyes internacionales marítimas, son conocidas y aplicadas a nivel internacional y su contenido incluyendo las regulaciones, alcance y sanciones, son conocidos por todos los entes involucrados, sus términos y disposiciones son usados y aplicados por cada uno de ellos de forma similar.</p>
             </v-list-item-content>
           </v-list-item>
+
           <v-list-item two-line>
             <v-list-item-content>
               <h3 class="text-center">¿DESEA SEGUIR APRENDIENDO? ELIJA UN TEMA</h3>
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
+
           </v-list-item>
-          <v-row class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
+          <v-row align="center" class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
+              <div class="text-center">
+              <v-col
+              cols="12"
+              sm="6"
+              >
+              <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" style="" nuxt to="/1">
                   LEYES
                 </v-btn>
-              </v-card>                </v-hover>
+              </v-card>                
+              </v-hover> 
+              </div>
+              <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/2">
@@ -45,6 +56,8 @@
                 </v-btn>
               </v-card>
             </v-hover>
+              </div>
+              <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/3">
@@ -52,6 +65,8 @@
                 </v-btn>
               </v-card>
             </v-hover>
+              </div>
+              <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/4">
@@ -59,6 +74,15 @@
                 </v-btn>
               </v-card>
             </v-hover>
+              </div>
+            </v-col>
+              </div>
+            <div class="text-center">
+            <v-col
+              cols="12"
+              sm="6"
+            >
+            <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/5">
@@ -66,6 +90,8 @@
                 </v-btn>
               </v-card>
             </v-hover>
+            </div>
+            <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/6">
@@ -73,6 +99,8 @@
                 </v-btn>
               </v-card>
             </v-hover>
+            </div>
+            <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
@@ -80,13 +108,18 @@
                 </v-btn>
               </v-card>
             </v-hover>
-                        <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+            </div>
+            <div class="my-2">
+            <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
                 <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
                   ETICA Y DEONTOLOGIA PROFESIONAL
                 </v-btn>
               </v-card>
             </v-hover>
+            </div>
+            </v-col>
+            </div>
           </v-row>
         </v-card>
       </v-hover>
