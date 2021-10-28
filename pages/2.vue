@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <div class="d-flex justify-space-between" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
@@ -8,7 +7,6 @@
         </v-card>
       </v-hover>
     </div>
-
     <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
       <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" class="mx-auto mt-3" max-width="%90" tile>
         <v-list-item>
@@ -20,26 +18,33 @@
           <v-list-item-content>
             <h3>¿Qué son los DERECHOS?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>Derechos, en plural, es lo que se concede o reconoce a un sujeto de derecho (independientemente de que haya sido exonerado o no por él); a diferencia de derecho, en singular, que puede referirse a la ciencia jurídica, al ordenamiento jurídico o a un sistema jurídico. La justificación del disfrute o ejercicio de los distintos derechos por cada uno de los sujetos que los poseen puede basarse en muy distintas circunstancias: la herencia, la vecindad, la conquista, el trabajo, u otras. En este sentido, resulta un término difuso por resultar comprehensivo de diversas situaciones o relaciones jurídicas, por el contenido, objeto o sentido de lo reconocido o concedido, el titular o el eventual obligado (sujeto pasivo). La identificación del concepto de derechos con el de libertades se da en la expresión, muy común, derechos y libertades.</p>
+            <p>El derecho es un conjunto de principios y normas generalmente inspirados en ideas de justicia y orden, que regulan las relaciones humanas en toda sociedad y cuya observancia es impuesta de forma coactiva por parte de un poder público. El conjunto de principios y normas jurídicas de un Estado determinado constituye su ordenamiento jurídico. El derecho es el objeto de estudio de la ciencia del derecho. El derecho guarda una íntima conexión con la política, la economía, la sociología y la historia, y es el centro de problemas humanos complejos como la determinación de lo que es justo.</p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item three-line>
           <v-list-item-content>
-            <h3>Distinciones</h3>
+            <h3>Derecho objetivo y derecho subjetivo</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>Una aproximación puede ser el tipo de sujeto de derecho involucrado, que puede ser un sujeto individual (como el ser humano, la persona física, el ciudadano, nacional o miembro de un Estado, una nación o una sociedad civil, o una persona jurídica como tal), un sujeto colectivo (la nación, los pueblos, los trabajadores o las personas morales), o incluso un sujeto no humano (como diferentes especies de animales o la totalidad de la naturaleza). A partir de lo anterior, se suelen distinguir distintas categorías de derechos, tales como: los derechos subjetivos, los derechos permanentes y personalísimos, los derechos individuales (individual rights), los derechos fundamentales o derechos humanos, el derecho a la autodeterminación de los pueblos, los derechos de los trabajadores,1​ los denominados derechos de los animales, entre otros.2​</p>
+            <p>El derecho objetivo es el conjunto de normas jurídicas (leyes, reglamentos, entre otras) de carácter obligatorio, y que son creadas por el Estado para conservar el orden social. Siempre teniendo en cuenta la validez, es decir, si se ha llevado a cabo el procedimiento adecuado para su creación, independientemente de su eficacia y de su ideal axiológico (si busca concretar un valor como la justicia, la armonía, el bien común, etcétera).<br><br>El derecho subjetivo es la facultad que ha otorgado el ordenamiento jurídico a un sujeto (por ejemplo, derecho a la nacionalidad, derecho a la salud, derecho a demandar, derecho a manifestarse libre y pacíficamente, derecho a la libre expresión, derecho al sindicalismo, etc.)
+            <br><br>El derecho objetivo puede responder a distintas significaciones:</p>
+            <p class="ma-4">El conjunto de reglas que rigen la convivencia de los hombres en sociedad.</p>
+            <p class="ma-4">Norma o conjunto de normas que por una parte otorgan derechos o facultades y por la otra, correlativamente, establecen o imponen obligaciones.</p>
+            <p class="ma-4">Conjunto de normas que regulan la conducta de los hombres, con el objeto de establecer un ordenamiento justo de convivencia humana. </p>
+            <p>El derecho subjetivo se puede decir que es:</p>
+            <p class="ma-4">La facultad que tiene un sujeto para ejecutar un acto con determinada conducta o abstenerse de ella, o para exigir de otro sujeto el cumplimiento de su deber.
+            <br><br>La facultad, la potestad o autorización que conforme a la norma jurídica tiene un sujeto frente a otro u otros sujetos, ya sea para desarrollar su propia actividad o determinar la de aquellos.
+            <br><br>Es una concesión de autoridad otorgada por una norma jurídica una persona o grupo en virtud de la cual queda legitimada para desplegar una determinada conducta sobre una o más personas o cosas.</p>
           </v-list-item-content>
         </v-list-item>
-        <v-list-item four-line>
+        <v-list-item>
           <v-list-item-content>
-            <h3>Enlaces externos</h3>
+            <h3>¿Cuál es la diferencia entre los Derechos Humanos y los Derechos Fundamentales?</h3>
             <v-divider class="mb-1"></v-divider>
-            <a href="https://es.wikipedia.org/wiki/Derechos"> https://es.wikipedia.org/wiki/Derechos </a>
+            <p>Se diferencian en que los derechos humanos tienen un alcance universal, pues se reconocen a todas las personas en el mundo desde el momento de su nacimiento, los derechos fundamentales tienen un alcance nacional y, dependiendo del país, pueden variar.</p>
           </v-list-item-content>
         </v-list-item>
       </v-card>
     </v-hover>
-
   </div>
 </template>
 
