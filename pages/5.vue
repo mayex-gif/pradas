@@ -18,23 +18,34 @@
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <h3>¿Qué es la ley?</h3>
+            <h3>¿Que es un delito informático?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>La ley (en latín, lex, legis) es una norma jurídica dictada por el legislador, es decir, un precepto establecido por la autoridad competente, en que se manda o prohíbe algo en consonancia con la justicia, cuyo incumplimiento conlleva a una sanción.1​Según el jurista panameño César Quintero, la ley es una «norma dictada por una autoridad pública que a todos ordena, prohíbe o permite, y a la cual todos deben obediencia». Por otro lado, el jurista venezolano Andrés Bello definió la ley como «una declaración de la voluntad soberana que, manifestada en la forma prescrita por la Constitución, manda, prohíbe o permite». Para Bello, lo decisivo para calificar un acto de ley es la forma en que se gesta y no la naturaleza de la disposición en él contenida.2​En general, las leyes son normas que regulan la convivencia social de una nación.</p>
+            <p>Un delito informático es todo delito llevado a cabo mediante equipos informáticos o a través de Internet.
+            Los delitos informáticos son actividades ilícitas o antijurídicas que:
+            Se cometen mediante el uso de entornos digitales, redes, blockchain, computadoras, sistemas informáticos u otros dispositivos de las nuevas tecnologías de información y comunicación (la informática es el medio o instrumento para realizar un hecho antijurídico).
+            Tienen por objeto causar daños, provocar pérdidas o impedir el uso de sistemas informáticos (delitos informáticos).</p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item three-line>
           <v-list-item-content>
-            <h3>Consideraciones</h3>
+            <h3>¿A que se llama Delincuencia informática y Abuso Informático?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>Las leyes son delimitadoras del libre albedrío de las personas dentro de la sociedad. Se puede decir que la ley es el control externo que existe para la conducta humana, las normas que rigen nuestra conducta social. Constituye una de las principales fuentes del derecho.</p>
+            <p>Se le llama así al conjunto de comportamientos dignos de reproche penal que tienen por instrumento o por objeto a los sistemas o elementos de técnica informática, o que están en relación significativa con ésta, pudiendo presentar múltiples formas de lesión de variados bienes jurídicos.</p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item four-line>
           <v-list-item-content>
-            <h3>Enlaces externos</h3>
+            <h3>¿Qué es la seguridad informática?</h3>
             <v-divider class="mb-1"></v-divider>
-            <a href="https://es.wikipedia.org/wiki/Ley"> https://es.wikipedia.org/wiki/Ley </a>
+            <p>La seguridad informática es el conjunto de técnicas y métodos que se utilizan para proteger tanto la información como los equipos informáticos en donde esta se encuentra almacenada ya sean estos individuales o conectados a una red frente a posibles ataques accidentales o intencionados.</p>
+            <br><br><br>
+            <p><strong>Se clasifican en:</strong></p>
+            <p class="ma-4"><strong> SEGURIDAD FÍSICA:</strong> Es aquella que tiene relación con la protección del computador mismo, vela por que las personas que lo manipulan tengan la autorización para ello, proporciona todas las indicaciones técnicas para evitar cualquier tipo de daños físicos a los equipos informáticos.</p>
+            <p class="ma-4"><strong> SEGURIDAD DE DATOS:</strong> Es la que señala los procedimientos necesarios para evitar el acceso no autorizado, permite controlar el acceso remoto de la información, en suma, protege la integridad de los sistemas de datos.</p>
+            <p class="ma-4"><strong> BACK UP Y RECUPERACIÓN DE DATOS:</strong> Proporciona los parámetros básicos para la utilización de sistemas de recuperación de datos y Backup de los sistemas informáticos. Permite recuperar la información necesaria en caso de que ésta sufra daños o se pierda.</p>
+            <p class="ma-4"><strong> DISPONIBILIDAD DE LOS RECURSOS:</strong> Este cuarto componente procura que los recursos y los datos almacenados en el sistema puedan ser rápidamente accesibles para la persona o personas que lo requieren. Permite evaluar constantemente los puntos críticos del sistema para así poderlos corregir de manera inmediata.</p>
+            <p class="ma-4"><strong> LA POLÍTICA DE SEGURIDAD:</strong> Conjunto de normas y criterios básicos que determinan lo relativo al uso de los recursos de una organización cualquiera.</p>
+            <p class="ma-4"><strong> ANÁLISIS FORENSE:</strong> El Análisis Forense surge como consecuencia de la necesidad de investigar los incidentes de Seguridad Informática que se producen en las entidades. Persigue la identificación del autor y del motivo del ataque. Igualmente, trata de hallar la manera de evitar ataques similares en el futuro y obtener pruebas periciales.</p>
           </v-list-item-content>
         </v-list-item>
       </v-card>

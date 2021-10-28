@@ -18,23 +18,21 @@
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <h3>¿Qué es la ley?</h3>
+            <h3>¿Cuándo habrá sociedad?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>La ley (en latín, lex, legis) es una norma jurídica dictada por el legislador, es decir, un precepto establecido por la autoridad competente, en que se manda o prohíbe algo en consonancia con la justicia, cuyo incumplimiento conlleva a una sanción.1​Según el jurista panameño César Quintero, la ley es una «norma dictada por una autoridad pública que a todos ordena, prohíbe o permite, y a la cual todos deben obediencia». Por otro lado, el jurista venezolano Andrés Bello definió la ley como «una declaración de la voluntad soberana que, manifestada en la forma prescrita por la Constitución, manda, prohíbe o permite». Para Bello, lo decisivo para calificar un acto de ley es la forma en que se gesta y no la naturaleza de la disposición en él contenida.2​En general, las leyes son normas que regulan la convivencia social de una nación.</p>
+            <p>Habrá sociedad comercial cuando dos o más personas en forma organizada, conforme a uno de los tipos previstos en esta ley se obliguen a realizar aportes para aplicarlos a la producción o intercambio de bienes o servicios participando de los beneficios y soportando las pérdidas. </p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item three-line>
           <v-list-item-content>
-            <h3>Consideraciones</h3>
+            <h3>Tipos de Sociedades</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>Las leyes son delimitadoras del libre albedrío de las personas dentro de la sociedad. Se puede decir que la ley es el control externo que existe para la conducta humana, las normas que rigen nuestra conducta social. Constituye una de las principales fuentes del derecho.</p>
-          </v-list-item-content>
-        </v-list-item>
-        <v-list-item four-line>
-          <v-list-item-content>
-            <h3>Enlaces externos</h3>
-            <v-divider class="mb-1"></v-divider>
-            <a href="https://es.wikipedia.org/wiki/Ley"> https://es.wikipedia.org/wiki/Ley </a>
+            <p class="ma-4"><strong> Sociedad colectiva:</strong> Una sociedad colectiva, es uno de los posibles tipos de sociedad mercantil. Se trata de una sociedad externa (que actúa y responde frente a terceros como una persona distinta de la de sus socios), que realiza actividades mercantiles o civiles bajo una razón social unificada, respondiendo los socios de las deudas que no pudieran cubrirse con el capital social.</p>
+            <p class="ma-4"><strong> Sociedad en comandita simple:</strong> Es aquella que existe bajo una razón social y se componen de uno o varios socios comanditados o “gestores” o “generales” (responsables por la administración de la empresa, incluyendo todos sus activos personales y comerciales), y de uno o varios comanditarios.</p>
+            <p class="ma-4"><strong> Sociedad de capital e industria:</strong> Es la constituida por uno o varios socios que aportan capital (socios capitalistas), con los mismos derechos y obligaciones que los integrantes de una sociedad colectiva, y uno o varios socios que ingresan con su industria solamente (socios industriales).</p>
+            <p class="ma-4"><strong> Sociedad de responsabilidad limitada:</strong> Es un tipo de sociedad mercantil, en la cual la responsabilidad está limitada al capital aportado, y por lo tanto, en el caso de que se contraigan deudas, no responde con el patrimonio personal de los socios, sino al aportado en dicha empresa Limitada (LTDA). Presenta como una sociedad de tipo capitalista en la que el capital, que estará dividido en participaciones sociales, se integrará por las aportaciones de todos los socios, quienes no responderán personalmente de las deudas sociales.</p>
+            <p class="ma-4"><strong> Sociedad en comandita por acciones:</strong> Es un híbrido entre una sociedad y una sociedad de responsabilidad limitada. El capital y la propiedad de la empresa se dividen entre los accionistas que tienen una responsabilidad limitada y uno o más socios que tienen la responsabilidad total por el resto de las deudas de la empresa. El socio (s) normalmente dirige las operaciones de la empresa, mientras que los accionistas son inversores pasivos.</p>
+            <p class="ma-4"><strong> Sociedad anónima unipersonal:</strong> Es una empresa de carácter mercantilista, cualquiera que sea su objeto y dispone de un único socio, ya sea por el hecho de que así fue desde el momento de su constitución, o bien, porque finalmente todos los socios con los que contaba la empresa se quedaron reducidos finalmente a uno.</p>
           </v-list-item-content>
         </v-list-item>
       </v-card>
