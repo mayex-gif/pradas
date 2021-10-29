@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="padding-bottom:15%;">
     <div class="d-flex justify-space-between" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
