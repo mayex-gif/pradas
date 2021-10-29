@@ -48,7 +48,9 @@
         </v-list-item>
         <div align="center" style="aling-items: center; item-aling: center;" class="pb-15"><img src="https://i0.wp.com/biblioteca.todoelderecho.com/wp-content/uploads/2021/01/delitos-informaticos.jpg?fit=700%2C479&ssl=1">
         <p><strong>Hacker</strong> analizando informacion</p></div>
-                    <v-divider class="mb-1"></v-divider>
+        <v-divider class="mb-1"></v-divider>
+        <v-list-item five-line>
+         <v-list-item-content>
             <h3>Ejemplos de Delitos Informaticos</h3>
              <ul>
               <li>
@@ -67,6 +69,8 @@
                 <p class="ma-4"><strong>Extorsion :</strong> Este delito sucede cuando alguien utiliza internet para extorsionar dinero a una persona o empresa. La extorsión se comete de distintas formas. Por ejemplo, el criminal puede tener acceso a información personal y amenazar con exponerla a menos que pague cierta cantidad de dinero a cambio. Los delincuentes también pueden llevar a cabo algún tipo de ataque cibernético para luego exigir un pago para detenerlo. Por este motivo, es muy importante tener un antivirus y proteger las cuentas bancarias y personales con contraseñas de alta dificultad.</p>
               </li>
             </ul>
+            </v-list-item-content>
+            </v-list-item>
           <v-list-item last-line>
           <v-list-item-content>
             <h3>Enlaces Externos</h3>
