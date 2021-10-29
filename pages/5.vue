@@ -48,6 +48,25 @@
         </v-list-item>
         <div align="center" style="aling-items: center; item-aling: center;" class="pb-15"><img src="https://i0.wp.com/biblioteca.todoelderecho.com/wp-content/uploads/2021/01/delitos-informaticos.jpg?fit=700%2C479&ssl=1">
         <p><strong>Hacker</strong> analizando informacion</p></div>
+                    <v-divider class="mb-1"></v-divider>
+            <h3>Ejemplos de Delitos Informaticos</h3>
+             <ul>
+              <li>
+                <p class="ma-4"><strong>Estafa: </strong> Este tipo de delito se comete a través del robo de identidad. Los criminales utilizan técnicas como el spam, webs falsas o softwares ilegales para engañar a las víctimas y robarles las contraseñas o claves personales. De esta manera, acceden a información confidencial. Un ejemplo de ello es el acceso a datos bancarios.</p>
+              </li>
+              <li>
+                <p class="ma-4"><strong>Hackeo: </strong> Este delito se considera muy grave, ya que el hacker intenta obtener acceso a cuentas personales con la ayuda de un ordenador. Con ello consigue robar información confidencial y puede llegar afectar a los negocios de una empresa.</p>
+              </li>
+              <li>
+                <p class="ma-4"><strong>Acoso: </strong> Mucha actividad en internet es anónima y uno de los delitos más comunes es el acoso, afectando sobre todo a los adolescentes. Por ejemplo, se recomienda que no acepten a personas desconocidas en sus redes sociales. Si el acoso se vuelve una amenaza, se pueden tomar acciones legales.</p>
+              </li>
+              <li>
+                <p class="ma-4"><strong>Suplantacion de Identidad: </strong> Relacionado con lo anterior, la suplantación de identidad sucede cuando la estafa tiene éxito y el criminal obtiene acceso a la información personal. Una vez obtenida, el criminal puede realizar compras, llegando a arruinar a la víctima, o hacerse pasar por la persona a quien ha robado los datos.</p>
+              </li>
+              <li>
+                <p class="ma-4"><strong>Extorsion :</strong> Este delito sucede cuando alguien utiliza internet para extorsionar dinero a una persona o empresa. La extorsión se comete de distintas formas. Por ejemplo, el criminal puede tener acceso a información personal y amenazar con exponerla a menos que pague cierta cantidad de dinero a cambio. Los delincuentes también pueden llevar a cabo algún tipo de ataque cibernético para luego exigir un pago para detenerlo. Por este motivo, es muy importante tener un antivirus y proteger las cuentas bancarias y personales con contraseñas de alta dificultad.</p>
+              </li>
+            </ul>
           <v-list-item last-line>
           <v-list-item-content>
             <h3>Enlaces Externos</h3>
