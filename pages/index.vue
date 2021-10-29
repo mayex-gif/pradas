@@ -25,6 +25,15 @@
               <br><br>Estos instrumentos pueden ser de tipo nacional pero también de tipo internacional, que son aquellos que se establecen entre los diferentes países para regular y unificar la materia legal y que permite el conocimiento de regulaciones entre ambas entidades, por ejemplo las leyes internacionales marítimas, son conocidas y aplicadas a nivel internacional y su contenido incluyendo las regulaciones, alcance y sanciones, son conocidos por todos los entes involucrados, sus términos y disposiciones son usados y aplicados por cada uno de ellos de forma similar.</p>
             </v-list-item-content>
           </v-list-item>
+          <v-list-item enlace-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://www.enfoque-estrategico.com/8-que-es-el-marco-juridico">https://www.enfoque-estrategico.com/8-que-es-el-marco-juridico</a><br>
+            <a href="https://www.aceproject.org/ace-es/topics/lf/onePage">https://www.aceproject.org/ace-es/topics/lf/onePage</a>
+          </v-list-item-content>
+        </v-list-item>
           <v-list-item two-line>
             <v-list-item-content>
               <h3 class="text-center">¿DESEA SEGUIR APRENDIENDO? ELIJA UN TEMA</h3>
