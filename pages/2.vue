@@ -20,7 +20,7 @@
           <v-list-item-content>
             <h3>¿Qué son los Derechos?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p><br>El Derecho es un conjunto de principios y normas generalmente inspirados en ideas de justicia y orden, que regulan las relaciones humanas en toda sociedad y cuya observancia es impuesta de forma coactiva por parte de un poder público. El conjunto de principios y normas jurídicas de un Estado determinado constituye su ordenamiento jurídico. El derecho es el objeto de estudio de la ciencia del derecho. El derecho guarda una íntima conexión con la política, la economía, la sociología y la historia, y es el centro de problemas humanos complejos como la determinación de lo que es justo.</p>
+            <p>El Derecho es un conjunto de principios y normas generalmente inspirados en ideas de justicia y orden, que regulan las relaciones humanas en toda sociedad y cuya observancia es impuesta de forma coactiva por parte de un poder público. El conjunto de principios y normas jurídicas de un Estado determinado constituye su ordenamiento jurídico. El derecho es el objeto de estudio de la ciencia del derecho. El derecho guarda una íntima conexión con la política, la economía, la sociología y la historia, y es el centro de problemas humanos complejos como la determinación de lo que es justo.</p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item three-line>

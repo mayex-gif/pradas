@@ -1,6 +1,5 @@
 <template>
   <div>
-
     <div class="d-flex justify-space-between" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
@@ -19,7 +18,7 @@
           <v-list-item-content>
             <h3>¿Qué es un Contrato de Software?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p><br>La generalización del uso de la programación informática, así como un escenario tecnológico en constante evolución, ha supuesto el surgimiento de una serie de figuras contractuales que no tienen prácticamente en común más que la singular naturaleza del objeto sobre el que orbitan.<br><br>
+            <p>La generalización del uso de la programación informática, así como un escenario tecnológico en constante evolución, ha supuesto el surgimiento de una serie de figuras contractuales que no tienen prácticamente en común más que la singular naturaleza del objeto sobre el que orbitan.<br><br>
               De esta forma, la expresión “contrato de software informático” suele hacer referencia a todo contrato de software que tiene por objeto la venta, arrendamiento y/o prestación de servicios relativos a un sistema informático o a un elemento integrado o susceptible de estar incorporado en dicho sistema.</p>
           </v-list-item-content>
         </v-list-item>
