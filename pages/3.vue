@@ -42,9 +42,9 @@
           <v-list-item-content>
             <h3>Ejemplos:</h3>
             <v-divider class="mb-1"></v-divider>
-            <ul><br>
+            <ul>
               <li><strong>Bienes Muebles:</strong>   Sillas, muebles, escritorios.</li><br>
-              <li><strong>Bienes Inmuebles:</strong>   Departamentos, oficinas y casas</li><br>
+              <li><strong>Bienes Inmuebles:</strong>   Departamentos, oficinas y casas.</li><br>
               <li><strong>Bienes de Consumo:</strong>   Libros, revistas, diarios.</li><br>
               <li><strong>Bienes Intermedios:</strong>   Una plancha de madera es un bien intermedio que se emplea para producir una mesa (bien final).</li><br>
               <li><strong>Bienes de Capital:</strong>   Joyas y bienes preciosos.</li><br>
@@ -53,9 +53,13 @@
             </ul> 
           </v-list-item-content>
         </v-list-item>
-        <center>
-        <img src="https://conceptodefinicion.de/wp-content/uploads/2015/03/bienes.jpg">
-        </center>
+        <v-list-item style="aling-items: center; item-aling: center;" class="pb-15" four-line>
+          <v-card class="mx-auto pa-5">
+            <img src="https://conceptodefinicion.de/wp-content/uploads/2015/03/bienes.jpg">
+            <p><strong>Bienes</strong> Muebles, Inmuebles, de Consumo, Intermedios, de Capital, Públicos, Privados</p>
+            <v-divider></v-divider> 
+          </v-card>
+        </v-list-item>
       </v-card>
     </v-hover>
   </div>

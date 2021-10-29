@@ -36,17 +36,8 @@
             <a href="https://es.wikipedia.org/wiki/Ley"> https://es.wikipedia.org/wiki/Ley </a>
           </v-list-item-content>
         </v-list-item>
-
-
       </v-card>
     </v-hover>
-
-
-
-
-
-
-
   </div>
 </template>
 
