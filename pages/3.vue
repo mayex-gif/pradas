@@ -42,9 +42,9 @@
           <v-list-item-content>
             <h3>Ejemplos:</h3>
             <v-divider class="mb-1"></v-divider>
-            <ul><br>
+            <ul>
               <li><strong>Bienes Muebles:</strong>   Sillas, muebles, escritorios.</li><br>
-              <li><strong>Bienes Inmuebles:</strong>   Departamentos, oficinas y casas</li><br>
+              <li><strong>Bienes Inmuebles:</strong>   Departamentos, oficinas y casas.</li><br>
               <li><strong>Bienes de Consumo:</strong>   Libros, revistas, diarios.</li><br>
               <li><strong>Bienes Intermedios:</strong>   Una plancha de madera es un bien intermedio que se emplea para producir una mesa (bien final).</li><br>
               <li><strong>Bienes de Capital:</strong>   Joyas y bienes preciosos.</li><br>
