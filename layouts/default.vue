@@ -19,7 +19,7 @@
     </v-navigation-drawer>
     <v-navigation-drawer v-model="drawer2" right clipped fixed app>
       <v-list-item-title class="text-h6 text-center my-3">
-        Ajustes
+        AJUSTES
       </v-list-item-title>
       <v-divider></v-divider>
       <v-list class="flex">
@@ -32,11 +32,11 @@
         </v-list-item>
 
         <v-list-item >
-          <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1">0000</v-btn>
+          <v-btn color="error" class="font-weight-medium text-center text-subtitle-1" width="230px">TERMINOS</v-btn>
         </v-list-item>
 
         <v-list-item>
-          <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1">0000</v-btn>
+          <v-btn color="error" class="font-weight-medium text-center text-subtitle-1" width="230px">¿QUIENES SOMOS?</v-btn>
         </v-list-item>
         
         <v-divider></v-divider>
