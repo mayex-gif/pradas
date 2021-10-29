@@ -18,7 +18,7 @@
           <v-list-item-content>
             <h3>¿Qué son los Bienes?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>>El término Bienes es el plural de la palabra bien; se refieren a cualquier cosa, tangible o intangible, que sea útil para el hombre y le satisfaga, directa o indirectamente, algún deseo o necesidad individual o colectiva, o que contribuya al bienestar de los individuos.
+            <p>El término Bienes es el plural de la palabra bien; se refieren a cualquier cosa, tangible o intangible, que sea útil para el hombre y le satisfaga, directa o indirectamente, algún deseo o necesidad individual o colectiva, o que contribuya al bienestar de los individuos.
             <br><br>Los Bienes son objetos útiles o provechosos que le generan un cierto valor o utilidad a quien los usa o posee. En sentido económico, los bienes son producidos para ser intercambiados; de esta manera, un bien es una mercancía.
             <br><br>Los Bienes pueden ser materiales o inmateriales y pueden ser demandados por personas físicas o jurídicas. El término deriva del latín bene, que significa «bien».
             <br><br>Para que un bien sea considerado económico, debe requerir cierta demanda por un determinado mercado, ser escaso y limitado y además tener un valor de intercambio.</p>
