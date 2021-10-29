@@ -23,12 +23,22 @@
       </v-list-item-title>
       <v-divider></v-divider>
       <v-list class="flex">
+
         <v-list-item v-for="(item, i) in theme" :key="i">
           <v-list-item-icon>
             <v-icon class="mt-1">{{ item.icon }}</v-icon>
           </v-list-item-icon>
           <v-switch v-model="$vuetify.theme.dark" inset/>
         </v-list-item>
+
+        <v-list-item >
+          <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1">0000</v-btn>
+        </v-list-item>
+
+        <v-list-item>
+          <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1">0000</v-btn>
+        </v-list-item>
+        
         <v-divider></v-divider>
       </v-list>
     </v-navigation-drawer>
