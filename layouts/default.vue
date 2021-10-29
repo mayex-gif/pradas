@@ -51,7 +51,7 @@
     <v-footer padless>
      <v-card flat tile class="pt-4 pb-1 light-blue lighten-1 white--text text-center" width="100%">
        <v-item v-for="(item,i) in icons" :key="i" class=" ma-auto mt-3 mb-1 light-blue " width="5%">
-          <v-btn :to="item.to" class="mx-4 white--text" target="_blank" icon>
+          <v-btn :href="item.to" class="mx-4 white--text" target="_blank" icon>
            <v-icon size="24px" >{{ item.icon }}</v-icon>
          </v-btn>
        </v-item>
