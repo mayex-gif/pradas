@@ -53,27 +53,27 @@
             <h4>Según el modo:</h4>
             <br><br>
             <ul>
-              <li><p><strong>Leyes permisivas:</strong> Permiten al sujeto realizar determinadas acciones.</p></li>
-              <li><p><strong>Leyes prohibitidas:</strong> Sancionan al sujeto que lleva a cabo determinados comportamientos.</p></li>
+              <li><p><strong>Leyes Permisivas:</strong> Permiten al sujeto realizar determinadas acciones.</p></li>
+              <li><p><strong>Leyes Prohibitidas:</strong> Sancionan al sujeto que lleva a cabo determinados comportamientos.</p></li>
             </ul>
             <h4>Según el rango:</h4>
             <br><br>
             <ul>
-              <li><p><strong>Leyes orgánicas:</strong> Regulan los derechos fundamentales y libertades públicas y requieren de una mayoría en el órgano legislativo para ser aprobadas.</p></li>
-              <li><p><strong>Leyes ordinarias:</strong> Regulan materias específicas que no afectan los  fundamentos de las leyes orgánicas por lo que requieren de una minoría simple en el órgano legislativo para ser aprobadas.</p></li>
+              <li><p><strong>Leyes Orgánicas:</strong> Regulan los derechos fundamentales y libertades públicas y requieren de una mayoría en el órgano legislativo para ser aprobadas.</p></li>
+              <li><p><strong>Leyes Ordinarias:</strong> Regulan materias específicas que no afectan los  fundamentos de las leyes orgánicas por lo que requieren de una minoría simple en el órgano legislativo para ser aprobadas.</p></li>
             </ul>
-            <h4>Según el origen o sentido</h4>
+            <h4>Según el Origen o Sentido</h4>
             <br><br>
             <ul>
-              <li><p><strong>Leyes formales:</strong> Normas formuladas por el poder legislativo independientemente de su contenido</p></li>
-              <li><p><strong>Leyes materiales:</strong> Normas generales y obligatorias que emanan de otras autoridades competentes. </p></li>
+              <li><p><strong>Leyes Formales:</strong> Normas formuladas por el poder legislativo independientemente de su contenido</p></li>
+              <li><p><strong>Leyes Materiales:</strong> Normas generales y obligatorias que emanan de otras autoridades competentes. </p></li>
             </ul>
             
             <h4>Según el ámbito de aplicación</h4>
             <br><br>
             <ul>
-              <li><p><strong>Leyes federales:</strong> Se promulgan y tienen validez en todo el territorio de una nación.</p></li>
-              <li><p><strong>Leyes locales:</strong> Son promulgadas por el órgano legislativo de una provincia o estado y tienen validez solo en ese territorio.</p></li>
+              <li><p><strong>Leyes Federales:</strong> Se promulgan y tienen validez en todo el territorio de una nación.</p></li>
+              <li><p><strong>Leyes Locales:</strong> Son promulgadas por el órgano legislativo de una provincia o estado y tienen validez solo en ese territorio.</p></li>
             </ul>
 
             <h3>Caracteristicas de las leyes</h3>
