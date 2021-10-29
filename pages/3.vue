@@ -50,10 +50,12 @@
               <li><strong>Bienes de Capital:</strong>   Joyas y bienes preciosos.</li><br>
               <li><strong>Bienes Públicos:</strong>    Son la defensa, la seguridad, la justicia, un medioambiente limpio, servicio de relaciones exteriores, entre otros.</li><br>
               <li><strong>Bienes Privados:</strong>   Una casa, un automóvil.</li><br>
-            </ul>  
-            <v-divider class="mb-1"></v-divider>
+            </ul> 
           </v-list-item-content>
         </v-list-item>
+        <center>
+        <img src="https://conceptodefinicion.de/wp-content/uploads/2015/03/bienes.jpg">
+        </center>
       </v-card>
     </v-hover>
   </div>
