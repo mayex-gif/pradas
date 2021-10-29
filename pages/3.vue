@@ -54,7 +54,7 @@
           </v-list-item-content>
         </v-list-item>
         <v-list-item style="aling-items: center; item-aling: center;" class="pb-15" four-line>
-          <v-card class="pa-5">
+          <v-card class="mx-auto pa-5">
             <img src="https://conceptodefinicion.de/wp-content/uploads/2015/03/bienes.jpg">
             <p><strong>Bienes</strong> Muebles, Inmuebles, de Consumo, Intermedios, de Capital, Públicos, Privados</p>
             <v-divider></v-divider> 
