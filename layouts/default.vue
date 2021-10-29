@@ -128,6 +128,12 @@ export default {
           color: 'light-blue',
           title: 'Etica y Deontologia',
           to: '/8'
+        },
+        {
+          icon: 'mdi-book-open-page-variant-outline',
+          color: 'light-blue',
+          title: 'Tadeo gay',
+          to: '/prueba'
         }
       ],
       theme: [
