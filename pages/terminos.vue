@@ -16,9 +16,9 @@
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <v-divider class="mb-1"></v-divider>
-            <p>1. RESPONSABILIDAD 
-            LA EMPRESA se reserva el derecho de modificar en forma unilateral, sin mediar previo aviso, ni comunicación al USUARIO y/o VISITANTE, estos Términos y Condiciones, el diseño, la presentación o su configuración, los servicios ofrecidos, los requisitos de registro o de utilización de la página, sin que ello genere derecho a reclamo o indemnización alguna en favor del USUARIO y/o VISITANTE. 
+            <v-divider class="mb-1"></v-divider><br>
+            <p><strong>1_RESPONSABILIDAD: </strong>
+            La empresa:se reserva el derecho de modificar en forma unilateral, sin mediar previo aviso, ni comunicación al USUARIO y/o VISITANTE, estos Términos y Condiciones, el diseño, la presentación o su configuración, los servicios ofrecidos, los requisitos de registro o de utilización de la página, sin que ello genere derecho a reclamo o indemnización alguna en favor del USUARIO y/o VISITANTE. 
 
 La utilización de los servicios y/o herramientas digitales, existentes en la página, requerirán del USUARIO y/o VISITANTE la aceptación de términos y condiciones que completan las previsiones contenidas en la presente en cuanto no se opongan a ellas. 
 
@@ -38,7 +38,7 @@ El USUARIO y/o VISITANTE reconoce y acepta que ni LA EMPRESA, ni los directores,
 
 La página puede ser utilizada por el USUARIO y/o VISITANTE en forma totalmente libre y gratuita.
 
-<br><br>2. SITIOS ENLAZADOS 
+<br><br><strong>2. SITIOS ENLAZADOS: </strong>
 
 A través de la presente página se pone a su disposición dispositivos técnicos de enlace (tales como, entre otros, links, banners, botones), directorios y herramientas de búsqueda que les permiten acceder a páginas web pertenecientes a terceros (en adelante los “SITIOS ENLAZADOS”). La instalación de estos enlaces en las páginas de LA EMPRESA se limita a facilitar a los USUARIO y/o VISITANTE, la búsqueda y acceso, a la información disponible de los sitios enlazados en Internet, y no presupone que existe ninguna clase de vínculo o asociación entre LA EMPRESA, sus subsidiarias o afiliadas y los operadores de los sitios enlazados. LA EMPRESA no controla, ni hacen propios los servicios, información, datos, archivos, productos y cualquier clase de material existente en los sitios enlazados. Por lo tanto, el USUARIO y/o VISITANTE, debe extremar la prudencia en la valoración y utilización de los servicios, información, datos, archivos, productos y cualquier clase de material existente en los sitios enlazados. 
 
@@ -60,7 +60,7 @@ Mediante el uso de esta página, el USUARIO y/o VISITANTE reconoce y acepta que 
 
 De igual manera, las eventuales referencias que se hagan en esta página a cualquier producto, servicio, proceso, sitio enlazado, hipertexto o cualquier otra información en la que se utilicen marcas, signos distintivos o dominios, el nombre comercial o el nombre del fabricante, suministrador, etc., que sean titularidad de terceros, en ningún momento constituirán, ni implicarán respaldo o recomendación alguna por parte de LA EMPRESA. Y en ningún caso, LA EMPRESA se asignará propiedad ni responsabilidad sobre los mismos.
 
-<br><br>3. POLÍTICA DE PRIVACIDAD 
+<br><br><strong>3. POLÍTICA DE PRIVACIDAD: </strong>
 
 La utilización e ingreso a la presente página web de LA EMPRESA, será considerado como aceptación de los términos de esta Política de Privacidad por parte del USUARIO y/o VISITANTE. 
 
@@ -70,15 +70,15 @@ El USUARIO y/o VISITANTE podrá brindar información con respecto a sus gustos, 
 
 No obstante lo anterior y en cumplimiento con las leyes aplicables, LA EMPRESA coopera con las autoridades gubernamentales nacionales, provinciales y municipales, e internacionales en cualquier investigación en relación con el contenido, ya sean personales o privadas, transmitidas a LA EMPRESA a través de este Sitio.
 
-<br><br>4. TERMINACIÓN DEL ACCESO 
+<br><br><strong>4. TERMINACIÓN DEL ACCESO: </strong>
 
 LA EMPRESA podrá, en cualquier momento, terminar o suspender el acceso que el USUARIO y/o VISITANTE tenga a todo o parte de este sitio, sin aviso previo, y sin que ello genere derecho a reclamo o indemnización alguna. Ni la terminación o suspensión del acceso, ni cualquier acción o inacción del USUARIO y/o VISITANTE, terminará las disposiciones de estos Términos y Condiciones, los que permanecerán en plena fuerza y vigor de forma indefinida, sujetas sólo a cualquier cambio que LA EMPRESA efectúe. 
 
-<br><br>5. VIOLACIONES DEL SISTEMA O BASES DE DATOS
+<br><br><strong>5. VIOLACIONES DEL SISTEMA O BASES DE DATOS: </strong>
 
 Es ilícita cualquier acción o uso de dispositivos, software, u otros instrumentos tendientes a interferir tanto en las actividades y operatoria de LA EMPRESA, así como en las ofertas, descripciones, cuentas o bases de datos de LA EMPRESA. Cualquier intromisión, tentativa o actividad violatoria o contraria a las leyes sobre derechos de propiedad intelectual, seguridad de los sistemas, y/o a las prohibiciones estipuladas en este documento harán pasible a su responsable de las acciones legales pertinentes, y a las sanciones previstas por este acuerdo.
 
-<br><br> 6. JURISDICCIÓN 
+<br><br><strong>6. JURISDICCIÓN: </strong>
 
 Estos Términos y Condiciones se regirán e interpretarán de acuerdo con las leyes de la República Argentina. EL USUARIO y/o VISITANTE conviene en que cualquier acción o procedimiento legal entre LA EMPRESA y ellos, por cualquier propósito respecto a estos Términos y Condiciones, se entablarán exclusivamente en los Tribunales Ordinarios y Civiles de la provincia de Mendoza.
 
