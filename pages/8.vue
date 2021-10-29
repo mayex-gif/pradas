@@ -55,6 +55,15 @@
             <p><br>En cierto sentido, podría interpretarse como una contrapartida. Los arquitectos, como otras profesiones, gozamos de un área de actividad exclusiva, amparada por el currículo formativo inherente al título, y a cambio, si así puede decirse, devolvemos a la sociedad la confianza otorgada en forma de un conjunto de normas de conducta, adoptadas por propia iniciativa.</p>
           </v-list-item-content>
         </v-list-item>
+        <v-list-item last-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="http://ftp.campusvirtual.utn.ac.cr/objetos%20de%20aprendizaje%20profesores/exelearning%20etica%20profesional/eticaprofesional/index.html">http://ftp.campusvirtual.utn.ac.cr</a><br>
+            <a href="https://www.cscae.com/index.php/presentacion/234-conoce-cscae/articulos-codigo/3972-0-que-es-la-deontologia-profesional">https://www.cscae.com/index.php/presentacion/234-conoce-cscae/articulos-codigo/3972-0-que-es-la-deontologia-profesional</a>
+          </v-list-item-content>
+        </v-list-item>
       </v-card>
     </v-hover>
 
