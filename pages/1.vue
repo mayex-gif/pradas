@@ -69,7 +69,7 @@
               <li><p><strong>Leyes materiales:</strong> Normas generales y obligatorias que emanan de otras autoridades competentes. </p></li>
             </ul>
             
-            <h4>según el ámbito de aplicación</h4>
+            <h4>Según el ámbito de aplicación</h4>
             <br><br>
             <ul>
               <li><p><strong>Leyes federales:</strong> Se promulgan y tienen validez en todo el territorio de una nación.</p></li>
@@ -96,6 +96,20 @@
               </li>
             </ul>
 
+            <div>
+              <h3>¿Para qué sirven las Leyes?</h3>
+              <v-divider class="mb-1"></v-divider>
+              <p>Las leyes son herramientas fundamentales para mantener el orden social dentro de un territorio. Establecen las actitudes que se espera tengan los individuos y prohíben aquellas que van en contra del bien común o los derechos de los ciudadanos.</p>
+              <p>Las leyes son sancionadas a fin de proteger los derechos y establecer deberes y obligación que garanticen el correcto desarrollo de los individuos y la saciedad.</p>
+              <p>Todas las naciones o estados tienen sus propias leyes, esta suelen estar escritas y deben ser conocidas por todos los miembros del territorio en el que rigen. Las leyes fomentan la igualdad entre los ciudadanos debido a que todos deben cumplir la ley por igual y no se pueden realizar excepciones ni distinciones de ningún tipo.</p>
+            </div>
+            <div>
+              <h3>Diferencia entre ley y norma.</h3>
+              <v-divider class="mb-1"></v-divider>
+              <p>El concepto de “ley” y el de “norma” están emparentados, ya que las leyes son consideraras un tipo de norma.</p>
+              <p>Las normas son las disposiciones o reglas que regulan la conducta de los individuos para garantizar el orden y el desarrollo dentro de una sociedad. Existen normas sociales, morales, religiosas y también los decretos, los reglamentos y tratados.</p>
+              <p>Lo que diferencia a las normas jurídicas del resto es que tienen un carácter obligatorio y coercitivo, es decir, todos los miembros de la sociedad están obligados a cumplirlas, sino serán sancionados.</p>
+            </div>
           </v-list-item-content>
         </v-list-item>
 
