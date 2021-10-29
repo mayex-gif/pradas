@@ -30,15 +30,6 @@
           </v-list-item-icon>
           <v-switch v-model="$vuetify.theme.dark" inset/>
         </v-list-item>
-
-        <v-list-item >
-          <v-btn color="error" class="font-weight-medium text-center text-subtitle-1" width="230px">TERMINOS</v-btn>
-        </v-list-item>
-
-        <v-list-item>
-          <v-btn color="error" class="font-weight-medium text-center text-subtitle-1" width="230px">¿QUIENES SOMOS?</v-btn>
-        </v-list-item>
-        
         <v-divider></v-divider>
       </v-list>
     </v-navigation-drawer>
@@ -66,6 +57,9 @@
        </v-item>
        <v-card-text class="white--text pt-4">
            Página informática relacionada al marco jurídico de las actividades industriales - Técnico en Programación
+           <br><a href="/terminos">Terminos</a> -   
+           <a href="/contacto">Contacto</a>
+
         </v-card-text>
        <v-divider class="mt-4 mx-16 pb-1"></v-divider>
        <v-text class="flex text-center">
@@ -138,12 +132,6 @@ export default {
           color: 'light-blue',
           title: 'Etica y Deontologia',
           to: '/8'
-        },
-        {
-          icon: 'mdi-book-open-page-variant-outline',
-          color: 'light-blue',
-          title: 'Tadeo gay',
-          to: '/prueba'
         }
       ],
       theme: [
