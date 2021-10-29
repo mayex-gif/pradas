@@ -13,7 +13,7 @@
             <v-list-item-content>
               <h3>¿Qué es el Marco Jurídico o Marco Legal?</h3>
               <v-divider class="mb-1"></v-divider>
-              <p><br>El Marco Jurídico es el conjunto de leyes, reglas, legislaciones y cualquier otro instrumento con rango y de carácter legal, que son utilizados de forma secuencial y coherente, los cuales una vez aplicados permiten sustentar todas las actuaciones y actividades en materia legal. Los instrumentos de aspecto legal que son considerados en el marco jurídico están estructurados en diferentes categorías o rangos, estos instrumentos, son de forma general:</p>
+              <p>El Marco Jurídico es el conjunto de leyes, reglas, legislaciones y cualquier otro instrumento con rango y de carácter legal, que son utilizados de forma secuencial y coherente, los cuales una vez aplicados permiten sustentar todas las actuaciones y actividades en materia legal. Los instrumentos de aspecto legal que son considerados en el marco jurídico están estructurados en diferentes categorías o rangos, estos instrumentos, son de forma general:</p>
               <ul><br>
                 <li>Los reglamentos y las leyes: en esta categorización de instrumentos se incluyen la constitución de cada país, los códigos aplicables, y las diferentes leyes.</li><br>
                 <li>Las Resoluciones y los decretos: en esta categoría se incluyen las diferentes resoluciones y decretos que son promulgados y que tienen vigencia en cada uno de los países.</li><br>
