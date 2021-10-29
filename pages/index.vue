@@ -40,88 +40,57 @@
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
           </v-list-item>
-          <v-row align="center" class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
-            <div class="text-center">
-              <v-col cols="12" sm="6">
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" style="" nuxt to="/1">
-                        LEYES
-                      </v-btn>
-                    </v-card>                
-                  </v-hover> 
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/2">
-                        DERECHOS Y NORMAS
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/3">
-                        BIENES
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/4">
-                        DERECHOS DE AUTOR
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-              </v-col>
+          <div style="padding-left: 20%; padding-right: 20%;">
+            <div class="d-flex justify-space-between pa-5">
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  LEYES
+                </v-btn>
+              </v-hover>
+              <spacer></spacer>
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  DERECHOS Y NORMAS
+                </v-btn>
+              </v-hover>
             </div>
-            <div class="text-center">
-              <v-col cols="12" sm="6">
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/5">
-                        DELITOS INFORMATICOS
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/6">
-                        CONTRATO DE SOFTWARE
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
-                        SUJETO DEL DERECHO
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="my-2">
-                  <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                    <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
-                      <v-btn color="primary" class="font-weight-medium text-center text-subtitle-1" nuxt to="/7">
-                        ETICA Y DEONTOLOGIA PROFESIONAL
-                      </v-btn>
-                    </v-card>
-                  </v-hover>
-                </div>
-              </v-col>
+            <div class="d-flex justify-space-between pa-5">
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary"  style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  BIENES
+                </v-btn>
+              </v-hover>
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  DERECHOS DE AUTOR
+                </v-btn>
+              </v-hover>
             </div>
-          </v-row>
+            <div class="d-flex justify-space-between pa-5">
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  DELITOS INFORMATICOS
+                </v-btn>
+              </v-hover>
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  CONTRATO DE SOFTWARE
+                </v-btn>
+              </v-hover>
+            </div>
+            <div class="d-flex justify-space-between pa-5 pb-10">
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  SUJETO DEL DERECHO
+                </v-btn>
+              </v-hover>
+              <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
+                <v-btn color="primary" style="width: 45%;" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                  ETICA Y DEONTOLOGIA PROFESIONAL
+                </v-btn>
+              </v-hover>
+            </div>
+          </div>
         </v-card>
       </v-hover>
     </v-col>
