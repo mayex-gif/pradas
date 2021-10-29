@@ -25,20 +25,15 @@
               <br><br>Estos instrumentos pueden ser de tipo nacional pero también de tipo internacional, que son aquellos que se establecen entre los diferentes países para regular y unificar la materia legal y que permite el conocimiento de regulaciones entre ambas entidades, por ejemplo las leyes internacionales marítimas, son conocidas y aplicadas a nivel internacional y su contenido incluyendo las regulaciones, alcance y sanciones, son conocidos por todos los entes involucrados, sus términos y disposiciones son usados y aplicados por cada uno de ellos de forma similar.</p>
             </v-list-item-content>
           </v-list-item>
-
           <v-list-item two-line>
             <v-list-item-content>
               <h3 class="text-center">¿DESEA SEGUIR APRENDIENDO? ELIJA UN TEMA</h3>
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
-
           </v-list-item>
           <v-row align="center" class="d-flex justify-space-between pa-3" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
               <div class="text-center">
-              <v-col
-              cols="12"
-              sm="6"
-              >
+              <v-col cols="12" sm="6">
               <div class="my-2">
             <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
               <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }" >
