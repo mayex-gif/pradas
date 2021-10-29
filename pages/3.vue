@@ -60,6 +60,15 @@
             <v-divider></v-divider> 
           </v-card>
         </v-list-item>
+        <v-list-item last-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://www.significados.com/bienes/">https://www.significados.com/bienes/</a><br>
+            <a href="https://conceptodefinicion.de/bienes/">https://conceptodefinicion.de/bienes/</a>
+          </v-list-item-content>
+        </v-list-item>
       </v-card>
     </v-hover>
   </div>

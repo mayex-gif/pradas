@@ -17,7 +17,7 @@
               <ul><br>
                 <li>Los reglamentos y las leyes: en esta categorización de instrumentos se incluyen la constitución de cada país, los códigos aplicables, y las diferentes leyes.</li><br>
                 <li>Las Resoluciones y los decretos: en esta categoría se incluyen las diferentes resoluciones y decretos que son promulgados y que tienen vigencia en cada uno de los países.</li><br>
-                <li>Las proidencias de tipo administrativas: las cuales son emanadas de los diferentes órganos o entes con rango y autorización para desarrollar y promulgar es este tipo de instrumentos.</li><br>
+                <li>Las Proidencias de Iipo Administrativas: las cuales son emanadas de los diferentes órganos o entes con rango y autorización para desarrollar y promulgar es este tipo de instrumentos.</li><br>
                 <li>Normas de uso generales: en esta categoría se incluyen las diferentes normativas que se derivan de las diferentes leyes o de las providencias de tipo administrativas.</li><br>
                 <li>Instrumentos de tipo internacional: esta categoría está representada por los diferentes acuerdos o leyes que se rigen entre diversos países, para un mejor entendimiento y manejo de aspectos relacionados en materia legal.</li><br>
               </ul>  
@@ -25,6 +25,15 @@
               <br><br>Estos instrumentos pueden ser de tipo nacional pero también de tipo internacional, que son aquellos que se establecen entre los diferentes países para regular y unificar la materia legal y que permite el conocimiento de regulaciones entre ambas entidades, por ejemplo las leyes internacionales marítimas, son conocidas y aplicadas a nivel internacional y su contenido incluyendo las regulaciones, alcance y sanciones, son conocidos por todos los entes involucrados, sus términos y disposiciones son usados y aplicados por cada uno de ellos de forma similar.</p>
             </v-list-item-content>
           </v-list-item>
+          <v-list-item enlace-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://www.enfoque-estrategico.com/8-que-es-el-marco-juridico">https://www.enfoque-estrategico.com/8-que-es-el-marco-juridico</a><br>
+            <a href="https://www.aceproject.org/ace-es/topics/lf/onePage">https://www.aceproject.org/ace-es/topics/lf/onePage</a>
+          </v-list-item-content>
+        </v-list-item>
           <v-list-item two-line>
             <v-list-item-content>
               <h3 class="text-center">¿DESEA SEGUIR APRENDIENDO? ELIJA UN TEMA</h3>
