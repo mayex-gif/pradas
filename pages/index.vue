@@ -40,7 +40,7 @@
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
           </v-list-item>
-          <div style="padding-left: 16%; padding-right: 16%;">
+          <div style="padding-left: 20%; padding-right: 20%;">
             <div class="d-flex justify-space-between pa-5">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
                 <v-btn color="primary" style="width: 45%;" to="/1" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
