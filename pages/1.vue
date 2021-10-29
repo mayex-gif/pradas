@@ -104,7 +104,7 @@
               <p>Todas las naciones o estados tienen sus propias leyes, esta suelen estar escritas y deben ser conocidas por todos los miembros del territorio en el que rigen. Las leyes fomentan la igualdad entre los ciudadanos debido a que todos deben cumplir la ley por igual y no se pueden realizar excepciones ni distinciones de ningún tipo.</p>
             </div>
             <div>
-              <h3>Diferencia entre ley y norma.</h3>
+              <h3>Diferencia entre Ley y Norma.</h3>
               <v-divider class="mb-1"></v-divider><br>
               <p>El concepto de “ley” y el de “norma” están emparentados, ya que las leyes son consideraras un tipo de norma.</p>
               <p>Las normas son las disposiciones o reglas que regulan la conducta de los individuos para garantizar el orden y el desarrollo dentro de una sociedad. Existen normas sociales, morales, religiosas y también los decretos, los reglamentos y tratados.</p>
