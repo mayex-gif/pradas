@@ -47,6 +47,15 @@
           </v-list-item-content>
         </v-list-item>
         <div align="center"><img src="https://i0.wp.com/biblioteca.todoelderecho.com/wp-content/uploads/2021/01/delitos-informaticos.jpg?fit=700%2C479&ssl=1"></div>
+          <v-list-item last-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://es.wikipedia.org/wiki/Delito_inform%C3%A1tico">https://es.wikipedia.org/wiki/Delito_inform%C3%A1tico</a><br>
+            <a href="https://escuelacienciasjuridicas.com/delitos-informaticos-mas-comunes/">https://escuelacienciasjuridicas.com/delitos-informaticos-mas-comunes/</a>
+          </v-list-item-content>
+        </v-list-item>
       </v-card>
     </v-hover>
 

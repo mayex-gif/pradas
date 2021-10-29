@@ -17,7 +17,7 @@
               <ul><br>
                 <li>Los reglamentos y las leyes: en esta categorización de instrumentos se incluyen la constitución de cada país, los códigos aplicables, y las diferentes leyes.</li><br>
                 <li>Las Resoluciones y los decretos: en esta categoría se incluyen las diferentes resoluciones y decretos que son promulgados y que tienen vigencia en cada uno de los países.</li><br>
-                <li>Las proidencias de tipo administrativas: las cuales son emanadas de los diferentes órganos o entes con rango y autorización para desarrollar y promulgar es este tipo de instrumentos.</li><br>
+                <li>Las Proidencias de Iipo Administrativas: las cuales son emanadas de los diferentes órganos o entes con rango y autorización para desarrollar y promulgar es este tipo de instrumentos.</li><br>
                 <li>Normas de uso generales: en esta categoría se incluyen las diferentes normativas que se derivan de las diferentes leyes o de las providencias de tipo administrativas.</li><br>
                 <li>Instrumentos de tipo internacional: esta categoría está representada por los diferentes acuerdos o leyes que se rigen entre diversos países, para un mejor entendimiento y manejo de aspectos relacionados en materia legal.</li><br>
               </ul>  
