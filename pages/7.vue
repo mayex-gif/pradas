@@ -33,6 +33,16 @@
             <p class="ma-4"><strong> Sociedad anónima unipersonal:</strong> Es una empresa de carácter mercantilista, cualquiera que sea su objeto y dispone de un único socio, ya sea por el hecho de que así fue desde el momento de su constitución, o bien, porque finalmente todos los socios con los que contaba la empresa se quedaron reducidos finalmente a uno.</p>
           </v-list-item-content>
         </v-list-item>
+                <v-list-item last-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://es.wikipedia.org/wiki/Sujeto_de_derecho">https://es.wikipedia.org/wiki/Sujeto_de_derecho</a><br>
+            <a href="https://www.oas.org/juridico/PDFs/mesicic3_per_leysociedades.pdf">https://www.oas.org/juridico/PDFs/mesicic3_per_leysociedades.pdf</a>
+            <a href="https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades">https://www.scotiabankcolpatria.com/educacion-financiera/finanzas-maestras/tipos-de-sociedades</a>
+          </v-list-item-content>
+        </v-list-item>
       </v-card>
     </v-hover>
 
