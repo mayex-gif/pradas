@@ -47,6 +47,10 @@
             <p><br>Según otra definición, la moral es la suma total del conocimiento que se adquiere sobre lo más alto y noble, y que una persona respeta en su conducta.<br><br>Las creencias sobre la moralidad son generalizadas y codificadas en una cierta cultura o en un grupo social determinado, por lo que la moral regula el comportamiento de sus miembros.<br><br>Por otra parte, la moral suele ser identificada con los principios religiosos y éticos que una comunidad acuerda respetar.<br>El conjunto de normas morales es denominado como moralidad objetiva (existen como hechos sociales más allá de que el sujeto decida acatarlas).<br>En cambio, los actos a través de los cuales la persona respeta o viola la norma moral conforman la moralidad subjetiva.<br><br>Cabe mencionar que la idea de responsabilidad moral aparece con el convencimiento de que el accionar del individuo siempre se realiza con un fin, a menos de que se encuentra inconsciente (ya sea por una enfermedad mental, un desequilibrio psicológico, los efectos de una droga, etc.). Se dice que una persona que hace uso de los valores morales de su sociedad puede forjarse un mejor destino.</p>
           </v-list-item-content>
         </v-list-item>
+        <br><br><br>
+        <center>
+        <img src="https://cuadros-comparativos.com/wp-content/uploads/2019/11/%C3%89tica-y-Moral.png"><br><br><br>
+        </center>
         <v-list-item four-line>
           <v-list-item-content>
             <h3>Definición de Deontologia Profesional</h3>

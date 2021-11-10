@@ -67,6 +67,10 @@
             </p>
           </v-list-item-content>
         </v-list-item>
+        <br><br><br>
+        <center>
+        <img src="https://intl-blog.imgix.net/wp-content/uploads/2021/09/contrato-de-software-ES-Capterra-Header-1.png?auto=format%2Cenhance" width="80%"><br><br><br>
+        </center>
         <v-list-item seven-line>
           <v-list-item-content>
             <h3>Enlaces externos</h3>
