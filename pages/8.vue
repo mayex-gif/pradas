@@ -16,7 +16,7 @@
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <h3>¿Que es Ètica?</h3>
+            <h3>¿Que es Ética?</h3>
             <v-divider class="mb-1"></v-divider>
             <p>Una sentencia ética es una declaración moral que elabora afirmaciones y define lo que es bueno, malo, obligatorio, permitido, etc. en lo referente a una acción o a una decisión.</p><br><br>
             <p>Por lo tanto, cuando alguien aplica una sentencia ética sobre una persona, está realizando un juicio moral. La ética, pues, estudia la moral y determina cómo deben actuar los miembros de una sociedad. Por lo tanto, se la define como la ciencia del comportamiento moral.<br><br>Claro que la ética no es coactiva, ya que no impone castigos legales (sus normas no son leyes). La ética ayuda a la justa aplicación de las normas legales en un Estado de derecho, pero en sí misma no es de castigo desde el punto de vista jurídico, sino que promueve una autorregulación.<br><br>
