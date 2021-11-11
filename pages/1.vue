@@ -48,15 +48,15 @@
         </v-list-item>
         <v-list-item>
           <v-list-item-content>
-            <h4>Tipos de leyes:</h4>
+            <h3>Tipos de Leyes:</h3>
             <v-divider class="mb-1"></v-divider>
-            <h4>Según el modo:</h4>
+            <h4>Según el Modo:</h4>
             <br><br>
             <ul>
               <li><p><strong>Leyes Permisivas:</strong> Permiten al sujeto realizar determinadas acciones.</p></li>
               <li><p><strong>Leyes Prohibitidas:</strong> Sancionan al sujeto que lleva a cabo determinados comportamientos.</p></li>
             </ul>
-            <h4>Según el rango:</h4>
+            <h4>Según el Rango:</h4>
             <br><br>
             <ul>
               <li><p><strong>Leyes Orgánicas:</strong> Regulan los derechos fundamentales y libertades públicas y requieren de una mayoría en el órgano legislativo para ser aprobadas.</p></li>
