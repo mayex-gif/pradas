@@ -49,7 +49,7 @@
         </v-list-item>
         <br><br><br>
         <center>
-        <img src="https://cuadros-comparativos.com/wp-content/uploads/2019/11/%C3%89tica-y-Moral.png" width="50%"><br><br><br>
+          <img style="width: 50%;" src="https://cuadros-comparativos.com/wp-content/uploads/2019/11/%C3%89tica-y-Moral.png" width="50%"><br><br><br>
         </center>
         <v-list-item four-line>
           <v-list-item-content>

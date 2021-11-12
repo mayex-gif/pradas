@@ -46,7 +46,8 @@
             <p class="ma-4"><strong> ANÁLISIS FORENSE:</strong> El Análisis Forense surge como consecuencia de la necesidad de investigar los incidentes de Seguridad Informática que se producen en las entidades. Persigue la identificación del autor y del motivo del ataque. Igualmente, trata de hallar la manera de evitar ataques similares en el futuro y obtener pruebas periciales.</p>
           </v-list-item-content>
         </v-list-item>
-        <div align="center" style="aling-items: center; item-aling: center;" class="pb-15"><img src="https://i0.wp.com/biblioteca.todoelderecho.com/wp-content/uploads/2021/01/delitos-informaticos.jpg?fit=700%2C479&ssl=1">
+        <div align="center" style="aling-items: center; item-aling: center;" class="pb-15">
+          <img style="width: 95%;" src="https://i0.wp.com/biblioteca.todoelderecho.com/wp-content/uploads/2021/01/delitos-informaticos.jpg?fit=700%2C479&ssl=1">
         <p><strong>Hacker</strong> analizando informacion</p></div>
         <v-divider class="mb-1"></v-divider>
         <v-list-item five-line>

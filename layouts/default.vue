@@ -130,7 +130,7 @@ export default {
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Ética y Deontologia',
+          title: 'Ética y Deontología',
           to: '/Ética y Deontología'
         }
       ],

@@ -20,8 +20,8 @@
                 <li>Las Proidencias de Iipo Administrativas: las cuales son emanadas de los diferentes órganos o entes con rango y autorización para desarrollar y promulgar es este tipo de instrumentos.</li><br>
                 <li>Normas de uso generales: en esta categoría se incluyen las diferentes normativas que se derivan de las diferentes leyes o de las providencias de tipo administrativas.</li><br>
                 <li>Instrumentos de tipo internacional: esta categoría está representada por los diferentes acuerdos o leyes que se rigen entre diversos países, para un mejor entendimiento y manejo de aspectos relacionados en materia legal.</li><br>
-              </ul>  
-              <p>Es de esta forma, que en el marco jurídico se evidencia la existencia de una amplia y diversa gama de leyes e instrumentos aplicados en materia legislativa, en donde dicho ámbito o alcance sirve de uso y aplicación para las diferentes gestiones y regimiento en materia legal, tanto para el gobierno como para los ciudadanos que hacen vida en un determinado país donde se contemplen y apliquen dichas regulaciones. 
+              </ul>
+              <p>Es de esta forma, que en el marco jurídico se evidencia la existencia de una amplia y diversa gama de leyes e instrumentos aplicados en materia legislativa, en donde dicho ámbito o alcance sirve de uso y aplicación para las diferentes gestiones y regimiento en materia legal, tanto para el gobierno como para los ciudadanos que hacen vida en un determinado país donde se contemplen y apliquen dichas regulaciones.
               <br><br>Estos instrumentos pueden ser de tipo nacional pero también de tipo internacional, que son aquellos que se establecen entre los diferentes países para regular y unificar la materia legal y que permite el conocimiento de regulaciones entre ambas entidades, por ejemplo las leyes internacionales marítimas, son conocidas y aplicadas a nivel internacional y su contenido incluyendo las regulaciones, alcance y sanciones, son conocidos por todos los entes involucrados, sus términos y disposiciones son usados y aplicados por cada uno de ellos de forma similar.</p>
             </v-list-item-content>
           </v-list-item>
@@ -34,49 +34,49 @@
           <div style="padding-left: 16%; padding-right: 16%;">
             <div class="d-flex justify-space-between pa-5">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/1" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Leyes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   LEYES
                 </v-btn>
               </v-hover>
               <spacer></spacer>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/2" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Derechos y Normas" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DERECHOS Y NORMAS
                 </v-btn>
               </v-hover>
             </div>
             <div class="d-flex justify-space-between pa-5">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary"  style="width: 45%;" to="/3" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary"  style="width: 45%;" to="/Bienes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   BIENES
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/4" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Derechos de Autor" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DERECHOS DE AUTOR
                 </v-btn>
               </v-hover>
             </div>
             <div class="d-flex justify-space-between pa-5">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/5" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Delitos Informáticos" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DELITOS INFORMATICOS
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/6" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Contrato de Software" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   CONTRATO DE SOFTWARE
                 </v-btn>
               </v-hover>
             </div>
             <div class="d-flex justify-space-between pa-5 pb-10">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/7" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Sujeto del Derecho" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   SUJETO DEL DERECHO
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/8" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: 45%;" to="/Ética y Deontología" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   ETICA Y DEONTOLOGIA PROFESIONAL
                 </v-btn>
               </v-hover>

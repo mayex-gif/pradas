@@ -21,7 +21,7 @@
             <p><strong>Sujeto</strong>, es un concepto que puede emplearse de diferentes formas. Puede tratarse de un individuo que, en un determinado contexto, carece de identificación o de denominación. También puede referirse a una categoría filosófica o a una función gramatical.</p><br><br>
             <p><strong>Derecho</strong>, por su parte, puede ser aquello que guía el accionar correcto, legítimo o adecuado de las personas. La noción también se asocia a las normas que expresan un ideal de justicia y que permiten regular la conducta y los vínculos humanos.</p><br><br>
             <p>Con estas definiciones, podemos comprender a qué se refiere la idea de sujeto de derecho. Se trata de aquel al que pueden imputársele derechos y obligaciones a través de la ley. Todas las personas, ya sean físicas o jurídicas, son sujetos de derecho.</p><br>
-            <center><br><br><img src="https://definicion.de/wp-content/uploads/2014/10/sujeto-de-derecho.jpg" width="40%"></center>
+            <center><br><br><img style="width: 50%;" src="https://definicion.de/wp-content/uploads/2014/10/sujeto-de-derecho.jpg"></center>
           </v-list-item-content>
         </v-list-item>
           <v-list-item two_six-line>
@@ -55,10 +55,13 @@
             <p class="ma-4"><strong> Sociedad de responsabilidad limitada:</strong> Es un tipo de sociedad mercantil, en la cual la responsabilidad está limitada al capital aportado, y por lo tanto, en el caso de que se contraigan deudas, no responde con el patrimonio personal de los socios, sino al aportado en dicha empresa Limitada (LTDA). Presenta como una sociedad de tipo capitalista en la que el capital, que estará dividido en participaciones sociales, se integrará por las aportaciones de todos los socios, quienes no responderán personalmente de las deudas sociales.</p>
             <p class="ma-4"><strong> Sociedad en comandita por acciones:</strong> Es un híbrido entre una sociedad y una sociedad de responsabilidad limitada. El capital y la propiedad de la empresa se dividen entre los accionistas que tienen una responsabilidad limitada y uno o más socios que tienen la responsabilidad total por el resto de las deudas de la empresa. El socio (s) normalmente dirige las operaciones de la empresa, mientras que los accionistas son inversores pasivos.</p>
             <p class="ma-4"><strong> Sociedad anónima unipersonal:</strong> Es una empresa de carácter mercantilista, cualquiera que sea su objeto y dispone de un único socio, ya sea por el hecho de que así fue desde el momento de su constitución, o bien, porque finalmente todos los socios con los que contaba la empresa se quedaron reducidos finalmente a uno.</p>
-            <img src="https://www.soyconta.com/wp-content/uploads/2019/09/tipos_sociedades_mercantiles.jpg" width="300px" height="300px">
+
           </v-list-item-content>
         </v-list-item>
-                <v-list-item last-line>
+        <center>
+          <img style="width: 80%;" src="https://www.soyconta.com/wp-content/uploads/2019/09/tipos_sociedades_mercantiles.jpg" height="300px">
+        </center>
+        <v-list-item last-line>
           <v-list-item-content>
             <h3>Enlaces Externos</h3>
             <v-divider class="mb-1"></v-divider>

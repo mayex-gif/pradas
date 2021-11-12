@@ -76,7 +76,7 @@
           </v-list-item-content>
         </v-list-item>
         <center>
-        <img src="https://pbs.twimg.com/media/DpwZB92WkAAAJ5U.jpg">
+        <img style="width: 100%" src="https://pbs.twimg.com/media/DpwZB92WkAAAJ5U.jpg">
         </center>
       </v-card>
     </v-hover>

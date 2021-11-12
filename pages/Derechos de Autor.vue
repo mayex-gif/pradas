@@ -19,11 +19,11 @@
             <h2>Derechos de Autor</h2>
             <v-divider class="mb-1"></v-divider><br>
             <h3>Ley Aplicable:</h3>
-            <p>La Ley 11723-Ley de propiedad intelectual Argentina El derecho de propiedad de una obra científica, literaria o artística, comprende para su autor la facultad de disponer de ella, de publicarla, de ejecutarla, de representarla, y exponerla en público, de enajenarla, de traducirla, de adaptarla o de autorizar su traducción y de reproducirla en cualquier forma.</p>      
+            <p>La Ley 11723-Ley de propiedad intelectual Argentina El derecho de propiedad de una obra científica, literaria o artística, comprende para su autor la facultad de disponer de ella, de publicarla, de ejecutarla, de representarla, y exponerla en público, de enajenarla, de traducirla, de adaptarla o de autorizar su traducción y de reproducirla en cualquier forma.</p>
             <h3>Objeto de Protección:</h3>
             <p>La protección del derecho de autor abarcará la expresión de ideas, procedimientos, métodos de operación y conceptos matemáticos, pero no esas ideas, procedimientos, métodos y conceptos en sí.</p>
             <h3>Titular del Derecho:</h3>
-            <p>Son titulares del derecho de propiedad intelectual: a) El autor de la obra; b) Sus herederos o derechohabientes; c) Los que con permiso del autor la traducen, refunden, adaptan o modifican sobre la nueva obra intelectual resultante.</p>    
+            <p>Son titulares del derecho de propiedad intelectual: a) El autor de la obra; b) Sus herederos o derechohabientes; c) Los que con permiso del autor la traducen, refunden, adaptan o modifican sobre la nueva obra intelectual resultante.</p>
             <h3>Tiempo de Protección:</h3>
             <p>Para el titular toda su vida y para los herederos 70 años desde la muerte del autor.</p>
             <h3>Ejemplos:</h3>
@@ -96,7 +96,7 @@
         </v-list-item>
         <br><br><br>
         <center>
-        <img src="https://www.criptonoticias.com/wp-content/uploads/2021/03/token-NFT-copyright-derechos-autor.jpg"><br><br><br>
+          <img style="width: 95%;" src="https://www.criptonoticias.com/wp-content/uploads/2021/03/token-NFT-copyright-derechos-autor.jpg"><br><br><br>
         </center>
         <v-list-item seven-line>
           <v-list-item-content>
