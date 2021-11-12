@@ -1,6 +1,6 @@
 <template>
   <div style="padding-bottom:15%;">
-    <div class="d-flex justify-content-center" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
+    <div class="d-flex justify-space-between" :color="$vuetify.theme.dark ? 'grey darken-3' : 'grey lighten-4'" flat tile>
       <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
         <v-card :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
           <v-btn color="$vuetify.theme.dark" nuxt to="/"><v-icon>mdi-chevron-left</v-icon></v-btn>
@@ -68,7 +68,7 @@
               <li><p><strong>Leyes Formales:</strong> Normas formuladas por el poder legislativo independientemente de su contenido</p></li>
               <li><p><strong>Leyes Materiales:</strong> Normas generales y obligatorias que emanan de otras autoridades competentes. </p></li>
             </ul>
-            
+
             <h4>Según el ámbito de aplicación</h4>
             <br><br>
             <ul>

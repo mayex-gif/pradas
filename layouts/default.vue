@@ -57,7 +57,7 @@
        </v-item>
        <v-card-text class="white--text pt-4">
            Página informática relacionada al marco jurídico de las actividades industriales - Técnico en Programación
-           <br><a href="/terminos">Terminos</a> -   
+           <br><a href="/terminos">Terminos</a> -
            <a href="/contacto">Contacto</a>
 
         </v-card-text>
@@ -67,7 +67,7 @@
        </v-text>
       </v-card>
     </v-footer>
-  </v-app>   
+  </v-app>
 </template>
 
 <script>
@@ -89,49 +89,49 @@ export default {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Leyes',
-          to: '/1'
+          to: '/Leyes'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Derechos y Normas',
-          to: '/2'
+          to: '/Derechos y Normas'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Bienes',
-          to: '/3'
+          to: '/Bienes'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Derechos de Autor',
-          to: '/4'
+          to: '/Derechos de Autor'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Delitos Informaticos',
-          to: '/5'
+          title: 'Delitos Informáticos',
+          to: '/Delitos Informáticos'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Contrato de Software',
-          to: '/6'
+          to: '/Contrato de Software'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
           title: 'Sujeto del Derecho',
-          to: '/7'
+          to: '/Sujeto del Derecho'
         },
         {
           icon: 'mdi-book-open-page-variant-outline',
           color: 'light-blue',
-          title: 'Etica y Deontologia',
-          to: '/8'
+          title: 'Ética y Deontologia',
+          to: '/Ética y Deontología'
         }
       ],
       theme: [
