@@ -132,6 +132,12 @@ export default {
           color: 'light-blue',
           title: 'Ética y Deontología',
           to: '/Ética y Deontología'
+        },
+        {
+          icon: 'mdi-book-open-page-variant-outline',
+          color: 'light-blue',
+          title: 'Hardware y Software',
+          to: '/Hardware y Software'
         }
       ],
       theme: [
