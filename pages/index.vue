@@ -31,52 +31,52 @@
               <v-divider class="mb-1"></v-divider>
             </v-list-item-content>
           </v-list-item>
-          <div style="padding-left: 16%; padding-right: 16%;">
-            <div class="d-flex justify-space-between pa-5">
+          <div style="padding-left: 13%; padding-right: 13%;">
+            <div class="d-flex justify-space-between pa-3">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Leyes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Leyes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   LEYES
                 </v-btn>
               </v-hover>
               <spacer></spacer>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Derechos y Normas" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Derechos y Normas" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DERECHOS Y NORMAS
                 </v-btn>
               </v-hover>
             </div>
-            <div class="d-flex justify-space-between pa-5">
+            <div class="d-flex justify-space-between pa-3">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary"  style="width: 45%;" to="/Bienes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary"  style="width: auto;" to="/Bienes" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   BIENES
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Derechos de Autor" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Derechos de Autor" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DERECHOS DE AUTOR
                 </v-btn>
               </v-hover>
             </div>
-            <div class="d-flex justify-space-between pa-5">
+            <div class="d-flex justify-space-between pa-3">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Delitos Informáticos" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Delitos Informáticos" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   DELITOS INFORMATICOS
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Contrato de Software" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Contrato de Software" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   CONTRATO DE SOFTWARE
                 </v-btn>
               </v-hover>
             </div>
-            <div class="d-flex justify-space-between pa-5 pb-10">
+            <div class="d-flex justify-space-between pa-3 pb-10">
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Sujeto del Derecho" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Sujeto del Derecho" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   SUJETO DEL DERECHO
                 </v-btn>
               </v-hover>
               <v-hover v-slot="{ hover }" open-delay="50" close-delay="50">
-                <v-btn color="primary" style="width: 45%;" to="/Ética y Deontología" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
+                <v-btn color="primary" style="width: auto;" to="/Ética y Deontología" :elevation="hover ? 15 : 10" :class="{ 'on-hover':hover }">
                   ETICA Y DEONTOLOGIA PROFESIONAL
                 </v-btn>
               </v-hover>
