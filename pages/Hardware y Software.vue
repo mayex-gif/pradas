@@ -12,72 +12,88 @@
         <v-list-item>
           <v-list-item-content>
             <div class="text-center">
-              <h1>DERECHOS</h1>
+              <h1>HARDWARE</h1>
             </div>
           </v-list-item-content>
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <h3>¿Qué son los Derechos?</h3>
+            <h3>¿Qué es el Hardware?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p>El Derecho es un conjunto de principios y normas generalmente inspirados en ideas de justicia y orden, que regulan las relaciones humanas en toda sociedad y cuya observancia es impuesta de forma coactiva por parte de un poder público. El conjunto de principios y normas jurídicas de un Estado determinado constituye su ordenamiento jurídico. El derecho es el objeto de estudio de la ciencia del derecho. El derecho guarda una íntima conexión con la política, la economía, la sociología y la historia, y es el centro de problemas humanos complejos como la determinación de lo que es justo.</p>
+            <p>Hardware es la parte física de un ordenador o sistema informático. Está formado por los componentes eléctricos, electrónicos, electromecánicos y mecánicos, tales como circuitos de cables y luz, placas, memorias, discos duros, dispositivos periféricos y cualquier otro material en estado físico que sea necesario para hacer que el equipo funcione.</p><br><br>
+            <p>El término hardware viene del inglés, significa partes duras y su uso se ha adoptado en el idioma español sin traducción, siendo utilizado para para aludir a los componentes de carácter material que conforman un equipo de computación.</p>
           </v-list-item-content>
         </v-list-item>
         <v-list-item three-line>
           <v-list-item-content>
-            <h3>Derecho Objetivo y Derecho Subjetivo</h3>
+            <h3>Tipos de hardware según su función</h3>
             <v-divider class="mb-1"></v-divider>
-            <p><br>El derecho Objetivo es el conjunto de normas jurídicas (leyes, reglamentos, entre otras) de carácter obligatorio, y que son creadas por el Estado para conservar el orden social. Siempre teniendo en cuenta la validez, es decir, si se ha llevado a cabo el procedimiento adecuado para su creación, independientemente de su eficacia y de su ideal axiológico (si busca concretar un valor como la justicia, la armonía, el bien común, etcétera).<br>
-            <br>El derecho Subjetivo es la facultad que ha otorgado el ordenamiento jurídico a un sujeto (por ejemplo, derecho a la nacionalidad, derecho a la salud, derecho a demandar, derecho a manifestarse libre y pacíficamente, derecho a la libre expresión, derecho al sindicalismo, etc.)
-            <br><br><u>El derecho Objetivo puede responder a distintas significaciones:</u></p><br>
             <ul><br>
-            <li>El conjunto de reglas que rigen la convivencia de los hombres en sociedad.</li><br>
-            <li>Norma o conjunto de normas que por una parte otorgan derechos o facultades y por la otra, correlativamente, establecen o imponen obligaciones.</li><br>
-            <li>Conjunto de normas que regulan la conducta de los hombres, con el objeto de establecer un ordenamiento justo de convivencia humana. </li><br>
-            </ul>
-            <p><u>El Derecho Subjetivo se puede decir que es:</u></p><br>
-            <ul><br>
-            <li>La facultad que tiene un sujeto para ejecutar un acto con determinada conducta o abstenerse de ella, o para exigir de otro sujeto el cumplimiento de su deber.</li><br>
-            <li>La facultad, la potestad o autorización que conforme a la norma jurídica tiene un sujeto frente a otro u otros sujetos, ya sea para desarrollar su propia actividad o determinar la de aquellos.</li><br>
-            <li>Es una concesión de autoridad otorgada por una norma jurídica una persona o grupo en virtud de la cual queda legitimada para desplegar una determinada conducta sobre una o más personas o cosas.</li><br>
+            <li><strong>Hardware interno: </strong> Se trata de todo aquel componente físico que pueda clasificarse como hardware y que forme parte directamente del dispositivo.</li><br>
+            <li><strong>Hardware externo: </strong> En este caso, consiste en el conjunto de componentes físicos que de nuevo se pueden clasificar como hardware, pero esta vez no forman parte del dispositivo principal, sino que funcionan como elementos complementarios a este.</li><br>
+            <li><strong>Hardware híbrido: </strong> Por último nos quedaría este tipo de hardware, el cual funciona como un elemento de hardware que bien puede formar parte de forma directa en el dispositivo o bien puede hacerlo de forma indirecta siendo un elemento independiente. </li><br>
             </ul>
           </v-list-item-content>
         </v-list-item>
         <v-list-item>
           <v-list-item-content>
-            <h3>¿Cuál es la diferencia entre los Derechos Humanos y los Derechos Fundamentales?</h3>
+            <h3>Tipos de hardware según su objetivo</h3>
             <v-divider class="mb-1"></v-divider>
-            <p><br>Se diferencian en que los Derechos Humanos tienen un alcance universal, pues se reconocen a todas las personas en el mundo desde el momento de su nacimiento, los Derechos Fundamentales tienen un alcance nacional y, dependiendo del país, pueden variar.</p>
+            <ul><br>
+            <li><strong>De procesamiento. </strong> Es el centro de la unidad física, más conocida como ‘CPU’.</li><br>
+            <li><strong>De almacenamiento. </strong> Se trata de las unidades que se encargan de almacenar datos.</li><br>
+            <li><strong>De entrada. </strong> Consistiría en periféricos cuyo único objetivo es enviar datos. </li><br>
+            <li><strong>De salida. </strong> En este caso se trata de un periférico que recibe datos.</li><br>
+            <li><strong>Periféricos de mixtos. </strong> Este tipo de periféricos posee la característica de enviar y recibir datos.</li><br>
+            </ul>
           </v-list-item-content>
         </v-list-item>
+        <br><br>  
+        <center>
+        <img style="width: 30%" src="https://cdn.goconqr.com/uploads/media/image/11560140/desktop_2c7e2d88-eb52-4393-b65b-ea3eeeb2ef57.gif">
+        </center>
+        <br><br><br><br>
         <v-list-item-content>
             <div class="text-center">
-              <h1>NORMAS</h1>
+              <h1>SOFTWARE</h1>
             </div>
         </v-list-item-content>
         <v-list-item>
         <v-list-item-content>
-            <h3> ¿Qué son las Normas?</h3>
+            <h3> ¿Qué es el Software?</h3>
             <v-divider class="mb-1"></v-divider>
-            <p><br>Se conoce como norma a la regla o un conjunto de estas, una ley, una pauta o un principio que se impone, se adopta y se debe seguir para realizar correctamente una acción o también para guiar, dirigir o ajustar la conducta o el comportamiento de los individuos.</p>
+            <p>Se conoce como software, logicial o soporte lógico al sistema formal de un sistema informático, que comprende el conjunto de los componentes lógicos necesarios que hacen posible la realización de tareas específicas, en contraposición a los componentes físicos que son llamados hardware. La interacción entre el software y el hardware hace operativo un ordenador (u otro dispositivo), es decir, el software envía instrucciones que el hardware ejecuta, haciendo posible su funcionamiento.<br><br>Los componentes lógicos incluyen, entre muchos otros, las aplicaciones informáticas, tales como el procesador de texto, que permite al usuario realizar todas las tareas concernientes a la edición de textos; el llamado software de sistema, tal como el sistema operativo, que básicamente permite al resto de los programas funcionar adecuadamente, facilitando también la interacción entre los componentes físicos y el resto de las aplicaciones, y proporcionando una interfaz con el usuario</p>
+            <p><br>En palabras sencillas el software es lo que permite que el hardware funcione. Es decir, son las rutinas lógicas, digitales e intangibles (que no puedes tocar) de tu equipo informático o móvil.</p>
         </v-list-item-content>
         </v-list-item>
         <v-list-item two-line>
           <v-list-item-content>
-            <h3>Tipos de Normas</h3>
+            <h3>Tipos de Software</h3>
             <v-divider class="mb-1"></v-divider>
             <ul><br>
-              <li><strong>Normas Juridicas:</strong>Son reglas bilaterales que otorgan al mismo tiempo facultades y deberes, es decir, derechos y obligaciones. Al ser impuestas por el Estado por encima de los demás tipos de normas, se caracterizan por ser heterónomas, bilaterales, externas y, por supuesto, coercibles, así como en su momento pueden llegar a convertirse en coactivas.</li><br>
-              <li><strong>Normas Morales:</strong>Son aquéllas que el ser humano realiza de forma consciente, libre y responsable, con el propósito de hacer el bien; son propias del ser humano y su sanción –el castigo que recibe la persona–, en caso de incumplimiento, es el remordimiento de conciencia. Se caracterizan por ser autónomas, unilaterales, internas e incoercibles.</li><br>
-              <li><strong>Normas Religiosas:</strong>Son un conjunto de preceptos manifestados al hombre por Dios o dadas por la autoridad eclesiástica (Iglesia) para el bien común. Se caracterizan por ser heterónomas, unilaterales, internas e incoercibles.</li><br>
-              <li><strong>Normas de Trato Social:</strong>Son las reglas creadas por la sociedad y provocan el rechazo por parte del grupo social de quien las incumple. Se caracterizan por ser heterónomas, unilaterales, externas e incoercibles.</li><br>
-              <li><strong>Normas Tecnicas:</strong>Son reglas de conducta de tipo operativo o funcional que tratan de explicar el uso de una herramienta, objeto o maquinaria, a fin de aprovechar su fuerza, precisión, naturaleza o material con el que están hechos. Establece especificaciones sobre procesos de producción, resultado de la experiencia y desarrollo tecnológico, para la fabricación de determinados productos o servicios; útil para todos aquellos interesados en la actividad productiva, tales como fabricantes, consumidores, laboratorios, centros de investigación, etcétera.</li><br>
+              <li><strong>Software de Sistema: </strong>es el que permite que nuestro hardware funcione de forma correcta.</li><br>
+              <li><strong>Software de Aplicación o Utilidad: </strong>se trata de las aplicaciones, programas y herramientas que utilizamos activamente de acuerdo a nuestras necesidades.</li><br>
+              <li><strong>Software de Programación: </strong>es seguramente el más importante de todos, pues sin él no se podrían haber creado los distintos tipos de software que mencionamos ante. Es una clase de software básica para la informática y el desarrollo de aplicaciones.</li><br>
+              <li><strong>Software Malicioso: </strong>se trata de un tipo de software que en realidad no está en ninguna categoría anterior, sino que tiene su propia categoría de tipo de software pues no es software de sistema, ni de aplicacion y menos de programación. EJ:Malware,Virus,etc.</li><br>
             </ul>
           </v-list-item-content>
         </v-list-item>
+        <br><br>
         <center>
-        <img style="width: 100%" src="https://pbs.twimg.com/media/DpwZB92WkAAAJ5U.jpg">
+        <img style="width: 60%" src="https://img.tecnomagazine.net/2018/10/tipos-de-software-segun-funciones.jpg">
         </center>
+        <br><br><br>
+        <v-list-item last-line>
+          <v-list-item-content>
+            <h3>Enlaces Externos</h3>
+            <v-divider class="mb-1"></v-divider>
+            <br>
+            <a href="https://es.wikipedia.org/wiki/Hardware">https://es.wikipedia.org/wiki/Hardware</a><br>
+            <a href="https://www.significados.com/hardware/">https://www.significados.com/hardware/</a><br>
+            <a href="https://es.wikipedia.org/wiki/Software">https://es.wikipedia.org/wiki/Software</a><br>
+            <a href="https://tecnomagazine.net/tipos-de-software/">https://tecnomagazine.net/tipos-de-software/</a>
+          </v-list-item-content>
+        </v-list-item>
       </v-card>
     </v-hover>
   </div>
