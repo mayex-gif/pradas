@@ -90,6 +90,3 @@ sw.*
 public
 
 .cache
-
-# Build
-/dist
