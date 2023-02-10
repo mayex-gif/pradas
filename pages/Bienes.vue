@@ -69,6 +69,8 @@
           </v-list-item-content>
         </v-list-item>
       </v-card>
+     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8146212242893305"
+     crossorigin="anonymous"></script>
     </v-hover>
   </div>
 </template>
